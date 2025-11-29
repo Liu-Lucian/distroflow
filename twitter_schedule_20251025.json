@@ -1,0 +1,26 @@
+{
+  "generated_at": "2025-10-25T23:10:20.915743",
+  "target_date": "2025-10-25",
+  "schedule": [
+    {
+      "time_slot": "09:00-10:00",
+      "tweet": "Just analyzed feedback from 150 users of our AI interview assistant. 🚀 A surprising insight: 70% felt unprepared due to lack of tailored practice. We're iterating to solve this—personalization is key. Check it out: https://interviewasssistant.com #StartupInsights #AI",
+      "posted": false
+    },
+    {
+      "time_slot": "11:00-13:00",
+      "tweet": "After analyzing feedback from 200 users, we found a surprising trend: 70% feel unprepared despite using interview prep tools. It’s not just practice; it’s about understanding their unique weaknesses. This insight shaped our next feature launch! Check it out: https://interviewasssistant.com #AI #interviews",
+      "posted": false
+    },
+    {
+      "time_slot": "13:00-15:00",
+      "tweet": "After analyzing feedback from 200+ users, we discovered that 70% valued real-time feedback over pre-recorded sessions. This shifted our focus at HireMeAI to live interaction! 🌟 Check out our journey and insights at https://interviewasssistant.com #AI #interviews",
+      "posted": false
+    },
+    {
+      "time_slot": "17:00-19:00",
+      "tweet": "Just reviewed feedback from 200 users using our AI interview assistant. Insight: 70% felt more confident after just 3 sessions! 🧠 The real game-changer? Personalization in prep questions. Discover how we’re redefining interview success at https://interviewasssistant.com #AI #interviewprep",
+      "posted": false
+    }
+  ]
+}

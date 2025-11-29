@@ -1,0 +1,64 @@
+[
+  {
+    "username": "Yoris2975086842",
+    "name": "Yoris",
+    "bio": "Click to Follow Yoris2975086842",
+    "email": null,
+    "profile_url": "https://twitter.com/Yoris2975086842",
+    "scraped_at": "2025-10-16T14:26:02.583703",
+    "all_contacts": {
+      "emails": [],
+      "phones": [
+        "2975086842"
+      ],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": [],
+      "potential_contact_pages": [
+        "https://twitter.com/contact",
+        "https://twitter.com/about",
+        "https://twitter.com/team",
+        "https://twitter.com/connect",
+        "https://twitter.com/reach-us",
+        "https://twitter.com/contact-us",
+        "https://twitter.com/get-in-touch"
+      ]
+    },
+    "contact_quality_score": 20,
+    "scraped_from": "techcrunch",
+    "seed_account": "techcrunch",
+    "relevance_score": 0.0,
+    "total_score": 8.0
+  },
+  {
+    "username": "Hush20969236150",
+    "name": "Hush",
+    "bio": "Click to Follow Hush20969236150",
+    "email": null,
+    "profile_url": "https://twitter.com/Hush20969236150",
+    "scraped_at": "2025-10-16T14:26:31.568404",
+    "all_contacts": {
+      "emails": [],
+      "phones": [
+        "2096923615"
+      ],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": [],
+      "potential_contact_pages": [
+        "https://twitter.com/contact",
+        "https://twitter.com/about",
+        "https://twitter.com/team",
+        "https://twitter.com/connect",
+        "https://twitter.com/reach-us",
+        "https://twitter.com/contact-us",
+        "https://twitter.com/get-in-touch"
+      ]
+    },
+    "contact_quality_score": 20,
+    "scraped_from": "techcrunch",
+    "seed_account": "techcrunch",
+    "relevance_score": 0.0,
+    "total_score": 8.0
+  }
+]

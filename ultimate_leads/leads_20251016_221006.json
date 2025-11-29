@@ -1,0 +1,233 @@
+[
+  {
+    "username": "engadget",
+    "name": "Engadget",
+    "bio": "Click to Follow engadget",
+    "email": null,
+    "profile_url": "https://twitter.com/engadget",
+    "scraped_at": "2025-10-16T22:08:35.801397",
+    "websites_found": [
+      "https://t.co/XnAXVxyA78"
+    ],
+    "website": "https://t.co/XnAXVxyA78",
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "tips@engadget.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "PCMag",
+    "name": "PCMag",
+    "bio": "Click to Follow PCMag",
+    "email": null,
+    "profile_url": "https://twitter.com/PCMag",
+    "scraped_at": "2025-10-16T22:08:37.451502",
+    "websites_found": [
+      "https://t.co/GYkBloRfPz"
+    ],
+    "website": "https://t.co/GYkBloRfPz",
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "tips@pcmag.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "ycombinator",
+    "name": "Y Combinator",
+    "bio": "Click to Follow ycombinator",
+    "email": null,
+    "profile_url": "https://twitter.com/ycombinator",
+    "scraped_at": "2025-10-16T22:08:38.623976",
+    "websites_found": [
+      "https://t.co/sjqjxxBeLc"
+    ],
+    "website": "https://t.co/sjqjxxBeLc",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "y.combinator@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "ForbesTech",
+    "name": "Forbes Tech",
+    "bio": "Click to Follow ForbesTech",
+    "email": null,
+    "profile_url": "https://twitter.com/ForbesTech",
+    "scraped_at": "2025-10-16T22:08:40.968753",
+    "websites_found": [
+      "https://t.co/RYx11CDiN8"
+    ],
+    "website": "https://t.co/RYx11CDiN8",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "forbes.tech@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "RajanAnandan",
+    "name": "Rajan Anandan",
+    "bio": "Click to Follow RajanAnandan",
+    "email": null,
+    "profile_url": "https://twitter.com/RajanAnandan",
+    "scraped_at": "2025-10-16T22:08:43.024695",
+    "websites_found": [
+      "https://amazon.com",
+      "https://startupvalley.news/uk/multiplier-",
+      "https://startupvalley.news"
+    ],
+    "website": "https://amazon.com",
+    "all_contacts": {
+      "emails": [
+        "contact@startupvalley.news"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "bayareawriter",
+    "name": "Mary Ann Azevedo",
+    "bio": "Click to Follow bayareawriter",
+    "email": null,
+    "profile_url": "https://twitter.com/bayareawriter",
+    "scraped_at": "2025-10-16T22:08:45.436017",
+    "websites_found": [
+      "https://t.co/Rc1nD2fnDd"
+    ],
+    "website": "https://t.co/Rc1nD2fnDd",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "mary.azevedo@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "aileenlee",
+    "name": "aileenlee",
+    "bio": "Click to Follow aileenlee",
+    "email": null,
+    "profile_url": "https://twitter.com/aileenlee",
+    "scraped_at": "2025-10-16T22:08:48.030397",
+    "websites_found": [
+      "https://t.co/NqGqheN6eu"
+    ],
+    "website": "https://t.co/NqGqheN6eu",
+    "all_contacts": {
+      "emails": [
+        "inquiries@cowboy.vc",
+        "ushello@cowboy.vcfor"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "joshk",
+    "name": "Josh Kopelman",
+    "bio": "Click to Follow joshk",
+    "email": null,
+    "profile_url": "https://twitter.com/joshk",
+    "scraped_at": "2025-10-16T22:08:49.764216",
+    "websites_found": [
+      "https://t.co/22TlvyPt5O"
+    ],
+    "website": "https://t.co/22TlvyPt5O",
+    "all_contacts": {
+      "emails": [
+        "contacthello@parallel.ai",
+        "hello@parallel.ai"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "ron_miller",
+    "name": "Ron Miller",
+    "bio": "Click to Follow ron_miller",
+    "email": null,
+    "profile_url": "https://twitter.com/ron_miller",
+    "scraped_at": "2025-10-16T22:08:51.876404",
+    "websites_found": [
+      "https://t.co/yOggkkgdcm"
+    ],
+    "website": "https://t.co/yOggkkgdcm",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "ron.miller@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "ForbesTechCncl",
+    "name": "Forbes Technology Council",
+    "bio": "Click to Follow ForbesTechCncl",
+    "email": null,
+    "profile_url": "https://twitter.com/ForbesTechCncl",
+    "scraped_at": "2025-10-16T22:08:53.402946",
+    "websites_found": [
+      "https://t.co/wZwTdcLc8L"
+    ],
+    "website": "https://t.co/wZwTdcLc8L",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "forbes.council@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  }
+]

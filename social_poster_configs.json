@@ -1,0 +1,15 @@
+{
+  "twitter": {
+    "url": "https://twitter.com/home",
+    "post_button_selector": "[data-testid='SideNav_NewTweet_Button']",
+    "button_text": "Tweet",
+    "button_location": "bottom-left sidebar",
+    "confidence": 95,
+    "configured_at": 1761169523.092095,
+    "all_selectors": [
+      ".tweet-button",
+      ".compose-button",
+      "[data-testid='SideNav_NewTweet_Button']"
+    ]
+  }
+}

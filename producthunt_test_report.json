@@ -1,0 +1,14 @@
+{
+  "test_time": "2025-10-23T14:14:16.268903",
+  "test_data_file": "producthunt_launch_TEST.json",
+  "product_name": "TestProductDemo123",
+  "results": {
+    "navigation": true,
+    "basic_info": false,
+    "description": false,
+    "tags": false,
+    "overall": false
+  },
+  "passed_tests": 1,
+  "total_tests": 4
+}

@@ -1,0 +1,10 @@
+{
+  "total_leads": 1,
+  "leads_with_email": 0,
+  "leads_with_phone": 1,
+  "leads_with_website": 0,
+  "high_quality_leads": 0,
+  "output_file": "auto_leads/leads_20251016_112852.csv",
+  "json_file": "auto_leads/leads_20251016_112852.json",
+  "timestamp": "20251016_112852"
+}

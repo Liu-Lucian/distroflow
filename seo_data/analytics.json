@@ -1,0 +1,340 @@
+{
+  "report": {
+    "total_content": 10,
+    "total_words": 6248,
+    "avg_words_per_article": 624,
+    "unique_keywords_covered": 38,
+    "content_by_type": {
+      "blog_post": 7,
+      "comparison_page": 2,
+      "landing_page": 1
+    },
+    "content_by_funnel_stage": {
+      "TOFU": 7,
+      "MOFU": 2,
+      "BOFU": 1
+    },
+    "generated_at": "2025-10-22T13:13:12.904138"
+  },
+  "opportunities": [
+    {
+      "type": "content_expansion",
+      "content_id": "content_1761162626_1",
+      "title": "How To Practice Interview Questions",
+      "current_words": 637,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "type": "content_expansion",
+      "content_id": "content_1761162714_2",
+      "title": "How To Research A Company Before An Interview",
+      "current_words": 655,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "type": "content_expansion",
+      "content_id": "content_1761162784_3",
+      "title": "Best Ai Vs Traditional Interview Prep: Complete Comparison Guide",
+      "current_words": 684,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "type": "content_expansion",
+      "content_id": "content_1761162859_4",
+      "title": "Get Started with How To Get Hired Using Ai Tools",
+      "current_words": 670,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "type": "content_expansion",
+      "content_id": "content_1761162940_5",
+      "title": "What To Expect In A Job Interview",
+      "current_words": 574,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "type": "content_expansion",
+      "content_id": "content_1761163614_1",
+      "title": "Best Best Practices For Interview Success: Complete Comparison Guide",
+      "current_words": 604,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "type": "content_expansion",
+      "content_id": "content_1761163691_2",
+      "title": "How To Prepare For Interview With Ai",
+      "current_words": 615,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "type": "content_expansion",
+      "content_id": "content_1761163770_3",
+      "title": "How To Answer Behavioral Interview Questions",
+      "current_words": 619,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "type": "content_expansion",
+      "content_id": "content_1761163845_4",
+      "title": "What Is The Future Of Job Interviews",
+      "current_words": 502,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "type": "content_expansion",
+      "content_id": "content_1761163925_5",
+      "title": "Ai Tools For Job Seekers",
+      "current_words": 688,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    }
+  ],
+  "suggestions": [
+    {
+      "action_steps": [
+        "Research and compile a list of the most common interview questions across various industries.",
+        "Create detailed sections for each type of interview question, including behavioral, technical, and situational questions.",
+        "Include tips for answering questions effectively and examples of strong responses.",
+        "Incorporate expert insights or quotes from career coaches or HR professionals.",
+        "Add a section on the importance of mock interviews and how to conduct them."
+      ],
+      "estimated_hours": 5,
+      "expected_impact": "high",
+      "resources": [
+        "Google Scholar for research articles",
+        "Canva for creating visuals",
+        "Grammarly for proofreading"
+      ],
+      "notes": "Consider incorporating multimedia elements like videos or infographics to enhance engagement.",
+      "type": "content_expansion",
+      "content_id": "content_1761162626_1",
+      "title": "How To Practice Interview Questions",
+      "current_words": 637,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "action_steps": [
+        "Conduct keyword research to identify related terms and phrases that potential readers may use.",
+        "Outline the current content and identify gaps that can be filled with additional information or examples.",
+        "Research and compile statistics, expert opinions, and case studies related to researching companies before interviews.",
+        "Expand sections on specific tools and resources (e.g., LinkedIn, Glassdoor, company websites) with detailed instructions.",
+        "Add a FAQ section addressing common questions regarding company research before interviews."
+      ],
+      "estimated_hours": 4,
+      "expected_impact": "high",
+      "resources": [
+        "Google Keyword Planner",
+        "BuzzSumo",
+        "Ahrefs",
+        "Grammarly"
+      ],
+      "notes": "Consider incorporating multimedia elements such as infographics or videos to enhance engagement.",
+      "type": "content_expansion",
+      "content_id": "content_1761162714_2",
+      "title": "How To Research A Company Before An Interview",
+      "current_words": 655,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "action_steps": [
+        "Conduct keyword research to identify relevant long-tail keywords related to AI and traditional interview preparation.",
+        "Create detailed sections comparing the methodologies, tools, and outcomes of AI vs traditional interview prep, including pros and cons.",
+        "Incorporate expert quotes or case studies from industry professionals to enhance credibility and depth.",
+        "Add visual elements such as infographics or comparison charts to improve engagement and comprehension.",
+        "Update the existing content with internal links to related articles and external links to authoritative sources."
+      ],
+      "estimated_hours": 5,
+      "expected_impact": "high",
+      "resources": [
+        "SEO keyword research tool (e.g., Ahrefs, SEMrush)",
+        "Content management system (CMS) for editing and publishing",
+        "Graphic design software or online tools for creating visuals (e.g., Canva)"
+      ],
+      "notes": "Expanding content will not only improve SEO but also provide more value to readers, potentially increasing dwell time and reducing bounce rates.",
+      "type": "content_expansion",
+      "content_id": "content_1761162784_3",
+      "title": "Best Ai Vs Traditional Interview Prep: Complete Comparison Guide",
+      "current_words": 684,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "action_steps": [
+        "Conduct keyword research to identify related terms and phrases that can enhance the content.",
+        "Expand sections on specific AI tools, providing detailed descriptions, pros and cons, and use cases.",
+        "Include real-life case studies or testimonials from individuals who successfully used AI tools to get hired.",
+        "Add a section on common pitfalls and how to avoid them when using AI tools in job applications.",
+        "Incorporate visuals such as infographics or charts to present data on AI tool effectiveness in job hiring."
+      ],
+      "estimated_hours": 5,
+      "expected_impact": "high",
+      "resources": [
+        "Keyword research tools (e.g., SEMrush, Ahrefs)",
+        "Content editing and writing tools (e.g., Grammarly, Hemingway)",
+        "Graphic design software (e.g., Canva, Adobe Illustrator)"
+      ],
+      "notes": "Consider updating the publication date and promoting the expanded content through social media and email newsletters.",
+      "type": "content_expansion",
+      "content_id": "content_1761162859_4",
+      "title": "Get Started with How To Get Hired Using Ai Tools",
+      "current_words": 670,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "action_steps": [
+        "Conduct keyword research to identify long-tail keywords related to job interviews.",
+        "Outline the expanded content structure, including sections such as common interview questions, preparation tips, and follow-up strategies.",
+        "Write detailed content for each section, ensuring to include personal anecdotes or expert quotes.",
+        "Incorporate visual elements like infographics or videos to enhance engagement.",
+        "Optimize the content for SEO by including relevant keywords, meta tags, and internal links."
+      ],
+      "estimated_hours": 5,
+      "expected_impact": "high",
+      "resources": [
+        "Google Keyword Planner",
+        "Ahrefs or SEMrush for competitive analysis",
+        "Canva for visual content creation",
+        "Grammarly for proofreading"
+      ],
+      "notes": "Ensure to review competitor content for gaps and opportunities to provide unique insights.",
+      "type": "content_expansion",
+      "content_id": "content_1761162940_5",
+      "title": "What To Expect In A Job Interview",
+      "current_words": 574,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "action_steps": [
+        "Research and compile additional successful interview techniques from industry experts.",
+        "Expand sections on common interview questions and effective answers, including examples.",
+        "Incorporate real-life success stories or case studies from candidates who excelled in interviews.",
+        "Add tips for virtual interviews, including technology setup and etiquette.",
+        "Include a comprehensive checklist at the end of the guide for quick reference."
+      ],
+      "estimated_hours": 5,
+      "expected_impact": "high",
+      "resources": [
+        "Google Scholar for research articles",
+        "Job boards for real-life case studies",
+        "Interview preparation books",
+        "SEO tools for keyword optimization"
+      ],
+      "notes": "Focus on enhancing user engagement and ensuring the content is shareable to drive traffic.",
+      "type": "content_expansion",
+      "content_id": "content_1761163614_1",
+      "title": "Best Best Practices For Interview Success: Complete Comparison Guide",
+      "current_words": 604,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "action_steps": [
+        "Conduct keyword research to identify long-tail keywords related to 'interview preparation with AI'.",
+        "Outline the expanded content sections, including topics like AI tools for interview prep, common AI interview questions, and tips for using AI effectively.",
+        "Write new sections that elaborate on each outlined topic, ensuring to provide real-world examples and actionable advice.",
+        "Incorporate visuals such as infographics or charts that summarize AI interview strategies.",
+        "Optimize the content for SEO by including meta tags, alt text for images, and internal links to related articles."
+      ],
+      "estimated_hours": 4,
+      "expected_impact": "high",
+      "resources": [
+        "Google Keyword Planner",
+        "SEMrush",
+        "Grammarly",
+        "Canva for visuals"
+      ],
+      "notes": "Consider promoting the expanded content through social media and email newsletters to reach a wider audience.",
+      "type": "content_expansion",
+      "content_id": "content_1761163691_2",
+      "title": "How To Prepare For Interview With Ai",
+      "current_words": 615,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "action_steps": [
+        "Research and identify the most common behavioral interview questions and their best practices.",
+        "Expand existing content by adding real-life examples and case studies of successful answers.",
+        "Include tips on how to tailor responses based on different job roles and industries.",
+        "Incorporate expert quotes or insights from HR professionals regarding behavioral interviews.",
+        "Optimize the expanded content with relevant keywords and internal links to related articles."
+      ],
+      "estimated_hours": 5,
+      "expected_impact": "high",
+      "resources": [
+        "keyword research tool",
+        "content management system",
+        "interview preparation guides"
+      ],
+      "notes": "Ensure the expanded content is engaging and provides actionable insights for readers.",
+      "type": "content_expansion",
+      "content_id": "content_1761163770_3",
+      "title": "How To Answer Behavioral Interview Questions",
+      "current_words": 619,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "action_steps": [
+        "Research and include emerging trends in job interviews such as virtual interviews, AI technology, and soft skills assessment.",
+        "Add expert quotes or insights from HR professionals and recruiters to provide authority and credibility.",
+        "Expand sections on preparation techniques for candidates and tips for interviewers to create a comprehensive guide.",
+        "Incorporate case studies or real-life examples that illustrate successful interview strategies and their outcomes.",
+        "Optimize the content for SEO by including relevant keywords, meta descriptions, and internal/external links."
+      ],
+      "estimated_hours": 5,
+      "expected_impact": "high",
+      "resources": [
+        "SEO keyword research tool",
+        "Content management system",
+        "Expert interview contacts",
+        "Case study sources"
+      ],
+      "notes": "Consider using infographics or videos to enhance engagement and shareability of the content.",
+      "type": "content_expansion",
+      "content_id": "content_1761163845_4",
+      "title": "What Is The Future Of Job Interviews",
+      "current_words": 502,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    },
+    {
+      "action_steps": [
+        "Research and compile a list of 10-15 AI tools specifically designed for job seekers, including their features and benefits.",
+        "Write detailed sections on how each tool can assist in the job search process, including use cases and testimonials.",
+        "Create a comparison chart that highlights the strengths and weaknesses of each tool to provide readers with a quick reference.",
+        "Incorporate SEO best practices by using relevant keywords throughout the content, including headings, subheadings, and alt text for images.",
+        "Add engaging visuals, such as infographics or screenshots of the tools in action, to enhance the content and improve user experience."
+      ],
+      "estimated_hours": 5,
+      "expected_impact": "high",
+      "resources": [
+        "SEO tools (e.g., SEMrush, Ahrefs)",
+        "Content management system (CMS)",
+        "Graphic design software (e.g., Canva)",
+        "Survey or feedback tools for testimonials"
+      ],
+      "notes": "A thorough expansion of this content can significantly improve search rankings and user engagement, making it a valuable addition to the website.",
+      "type": "content_expansion",
+      "content_id": "content_1761163925_5",
+      "title": "Ai Tools For Job Seekers",
+      "current_words": 688,
+      "recommendation": "Expand to 1500-2000 words",
+      "priority": "medium"
+    }
+  ],
+  "generated_at": "2025-10-22T13:13:53.997335"
+}

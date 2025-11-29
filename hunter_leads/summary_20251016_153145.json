@@ -1,0 +1,14 @@
+{
+  "total_leads": 27,
+  "leads_with_email": 8,
+  "email_rate": 29.629629629629626,
+  "leads_with_phone": 4,
+  "leads_with_website": 23,
+  "high_quality_leads": 0,
+  "deep_scraped": 27,
+  "guessed_emails": 0,
+  "verified_emails": 0,
+  "output_file": "hunter_leads/leads_20251016_153145.csv",
+  "json_file": "hunter_leads/leads_20251016_153145.json",
+  "timestamp": "20251016_153145"
+}

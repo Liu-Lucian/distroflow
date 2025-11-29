@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-10-23T13:43:47.336596",
+  "target_date": "2025-10-23",
+  "schedule": [
+    {
+      "time_slot": "09:00-11:00",
+      "product": {
+        "url": "https://www.producthunt.com/posts/example-productivity",
+        "name": "Productivity OS",
+        "tagline": "All-in-one workspace for focused work",
+        "category": "Productivity",
+        "description": "A productivity tool that combines tasks, notes, and calendar"
+      },
+      "comment": "Yooo, this looks dope! 🔥 I love how you’re combining tasks, notes, and calendar in one place. Quick Q - how do you manage syncing across devices? That’s always a pain point for me. Also, what’s your strategy for keeping the UI clutter-free with all those features? 🧐",
+      "posted": false
+    },
+    {
+      "time_slot": "13:00-15:00",
+      "product": {
+        "url": "https://www.producthunt.com/posts/example-ai-tool",
+        "name": "AI Career Coach",
+        "tagline": "AI-powered career guidance for professionals",
+        "category": "AI Tools, Career",
+        "description": "An AI tool that helps professionals navigate their career path"
+      },
+      "comment": "Yooo, this looks awesome! 🎉 The idea of AI-powered career guidance is super relevant right now. Quick Q - how do you handle personalized recommendations? That’s always been a tricky bit for me in similar tools. Ngl, I’m excited to see how this evolves! GG!",
+      "posted": false
+    }
+  ]
+}

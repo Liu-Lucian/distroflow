@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DistroFlow</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <div class="header">
+      <h1>🚀 DistroFlow</h1>
+      <div class="server-status" id="serverStatus">
+        <span class="status-dot"></span>
+        <span class="status-text">Connecting...</span>
+      </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="content">
+      <!-- Post Section -->
+      <div class="section">
+        <h2>Quick Post</h2>
+
+        <!-- Platform Selection -->
+        <div class="platforms" id="platformsContainer">
+          <label class="platform-checkbox">
+            <input type="checkbox" value="twitter" data-platform="twitter">
+            <span class="platform-name">Twitter</span>
+            <span class="platform-status" data-status="twitter">●</span>
+          </label>
+          <label class="platform-checkbox">
+            <input type="checkbox" value="reddit" data-platform="reddit">
+            <span class="platform-name">Reddit</span>
+            <span class="platform-status" data-status="reddit">●</span>
+          </label>
+          <label class="platform-checkbox">
+            <input type="checkbox" value="hackernews" data-platform="hackernews">
+            <span class="platform-name">HackerNews</span>
+            <span class="platform-status" data-status="hackernews">●</span>
+          </label>
+          <label class="platform-checkbox">
+            <input type="checkbox" value="instagram" data-platform="instagram">
+            <span class="platform-name">Instagram</span>
+            <span class="platform-status" data-status="instagram">●</span>
+          </label>
+        </div>
+
+        <!-- Post Form -->
+        <div class="form-group">
+          <label for="postTitle">Title (optional)</label>
+          <input type="text" id="postTitle" placeholder="Post title...">
+        </div>
+
+        <div class="form-group">
+          <label for="postContent">Content</label>
+          <textarea id="postContent" rows="6" placeholder="What's on your mind?"></textarea>
+          <div class="char-count">
+            <span id="charCount">0</span> characters
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="postUrl">URL (optional)</label>
+          <input type="text" id="postUrl" placeholder="https://...">
+        </div>
+
+        <button class="btn btn-primary" id="postBtn">
+          <span class="btn-text">Post Now</span>
+          <span class="btn-loading" style="display: none;">
+            <span class="spinner"></span> Posting...
+          </span>
+        </button>
+      </div>
+
+      <!-- Results Section -->
+      <div class="section results-section" id="resultsSection" style="display: none;">
+        <h3>Results</h3>
+        <div id="results"></div>
+      </div>
+
+      <!-- Quick Actions -->
+      <div class="section quick-actions">
+        <h3>Quick Actions</h3>
+        <div class="action-buttons">
+          <button class="btn btn-secondary btn-small" id="viewTasksBtn">
+            📋 View Tasks
+          </button>
+          <button class="btn btn-secondary btn-small" id="settingsBtn">
+            ⚙️ Settings
+          </button>
+          <button class="btn btn-secondary btn-small" id="openDocsBtn">
+            📚 Docs
+          </button>
+        </div>
+      </div>
+
+      <!-- Settings Panel (Hidden by default) -->
+      <div class="section settings-panel" id="settingsPanel" style="display: none;">
+        <h3>Settings</h3>
+        <div class="form-group">
+          <label for="apiUrl">API Server URL</label>
+          <input type="text" id="apiUrl" value="http://127.0.0.1:8000" placeholder="http://127.0.0.1:8000">
+        </div>
+        <button class="btn btn-secondary btn-small" id="saveSettingsBtn">Save Settings</button>
+        <button class="btn btn-secondary btn-small" id="testConnectionBtn">Test Connection</button>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+      <div class="footer-links">
+        <a href="https://github.com/yourusername/distroflow" target="_blank">GitHub</a>
+        <span>•</span>
+        <a href="https://github.com/yourusername/distroflow/issues" target="_blank">Report Issue</a>
+        <span>•</span>
+        <span class="version">v0.1.0</span>
+      </div>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

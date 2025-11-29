@@ -1,0 +1,1254 @@
+[
+  {
+    "username": "engadget",
+    "name": "Engadget",
+    "bio": "Click to Follow engadget",
+    "email": null,
+    "profile_url": "https://twitter.com/engadget",
+    "scraped_at": "2025-10-16T19:32:48.840151",
+    "websites_found": [
+      "https://t.co/XnAXVxyA78"
+    ],
+    "website": "https://t.co/XnAXVxyA78",
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "tips@engadget.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "PCMag",
+    "name": "PCMag",
+    "bio": "Click to Follow PCMag",
+    "email": null,
+    "profile_url": "https://twitter.com/PCMag",
+    "scraped_at": "2025-10-16T19:32:50.586101",
+    "websites_found": [
+      "https://t.co/GYkBloRfPz"
+    ],
+    "website": "https://t.co/GYkBloRfPz",
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "contact@pcmag.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "ycombinator",
+    "name": "Y Combinator",
+    "bio": "Click to Follow ycombinator",
+    "email": null,
+    "profile_url": "https://twitter.com/ycombinator",
+    "scraped_at": "2025-10-16T19:32:51.810845",
+    "websites_found": [
+      "https://t.co/sjqjxxBeLc"
+    ],
+    "website": "https://t.co/sjqjxxBeLc",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "y.combinator@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "ForbesTech",
+    "name": "Forbes Tech",
+    "bio": "Click to Follow ForbesTech",
+    "email": null,
+    "profile_url": "https://twitter.com/ForbesTech",
+    "scraped_at": "2025-10-16T19:32:54.318327",
+    "websites_found": [
+      "https://t.co/RYx11CDiN8"
+    ],
+    "website": "https://t.co/RYx11CDiN8",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "forbes.tech@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "RajanAnandan",
+    "name": "Rajan Anandan",
+    "bio": "Click to Follow RajanAnandan",
+    "email": null,
+    "profile_url": "https://twitter.com/RajanAnandan",
+    "scraped_at": "2025-10-16T19:32:55.984077",
+    "websites_found": [
+      "https://amazon.com",
+      "https://startupvalley.news/uk/multiplier-",
+      "https://startupvalley.news"
+    ],
+    "website": "https://amazon.com",
+    "all_contacts": {
+      "emails": [
+        "contact@startupvalley.news"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "bayareawriter",
+    "name": "Mary Ann Azevedo",
+    "bio": "Click to Follow bayareawriter",
+    "email": null,
+    "profile_url": "https://twitter.com/bayareawriter",
+    "scraped_at": "2025-10-16T19:32:57.634899",
+    "websites_found": [
+      "https://t.co/Rc1nD2fnDd"
+    ],
+    "website": "https://t.co/Rc1nD2fnDd",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "mary.azevedo@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "aileenlee",
+    "name": "aileenlee",
+    "bio": "Click to Follow aileenlee",
+    "email": null,
+    "profile_url": "https://twitter.com/aileenlee",
+    "scraped_at": "2025-10-16T19:32:59.577818",
+    "websites_found": [
+      "https://t.co/NqGqheN6eu"
+    ],
+    "website": "https://t.co/NqGqheN6eu",
+    "all_contacts": {
+      "emails": [
+        "inquiries@cowboy.vc",
+        "ushello@cowboy.vcfor"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "joshk",
+    "name": "Josh Kopelman",
+    "bio": "Click to Follow joshk",
+    "email": null,
+    "profile_url": "https://twitter.com/joshk",
+    "scraped_at": "2025-10-16T19:33:01.931726",
+    "websites_found": [
+      "https://t.co/22TlvyPt5O"
+    ],
+    "website": "https://t.co/22TlvyPt5O",
+    "all_contacts": {
+      "emails": [
+        "contacthello@parallel.ai",
+        "hello@parallel.ai"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "ron_miller",
+    "name": "Ron Miller",
+    "bio": "Click to Follow ron_miller",
+    "email": null,
+    "profile_url": "https://twitter.com/ron_miller",
+    "scraped_at": "2025-10-16T19:33:03.540562",
+    "websites_found": [
+      "https://t.co/yOggkkgdcm"
+    ],
+    "website": "https://t.co/yOggkkgdcm",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "ron.miller@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "ForbesTechCncl",
+    "name": "Forbes Technology Council",
+    "bio": "Click to Follow ForbesTechCncl",
+    "email": null,
+    "profile_url": "https://twitter.com/ForbesTechCncl",
+    "scraped_at": "2025-10-16T19:33:05.731450",
+    "websites_found": [
+      "https://t.co/wZwTdcLc8L"
+    ],
+    "website": "https://t.co/wZwTdcLc8L",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "forbes.council@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "KyleAlspach",
+    "name": "Kyle Alspach",
+    "bio": "Click to Follow KyleAlspach",
+    "email": null,
+    "profile_url": "https://twitter.com/KyleAlspach",
+    "scraped_at": "2025-10-16T19:33:08.761743",
+    "websites_found": [
+      "https://t.co/vsNqY6LFWM"
+    ],
+    "website": "https://t.co/vsNqY6LFWM",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "kyle.alspach@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "TheValuesVC",
+    "name": "Elliott Robinson",
+    "bio": "Click to Follow TheValuesVC",
+    "email": null,
+    "profile_url": "https://twitter.com/TheValuesVC",
+    "scraped_at": "2025-10-16T19:33:10.577566",
+    "websites_found": [
+      "https://doppel.com/quiz/real-reco",
+      "https://doppel.com"
+    ],
+    "website": "https://doppel.com/quiz/real-reco",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "elliott.robinson@doppel.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "techinasia",
+    "name": "Tech in Asia",
+    "bio": "Click to Follow techinasia",
+    "email": null,
+    "profile_url": "https://twitter.com/techinasia",
+    "scraped_at": "2025-10-16T19:33:13.427840",
+    "websites_found": [
+      "https://t.co/LQI3QKuFuu"
+    ],
+    "website": "https://t.co/LQI3QKuFuu",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "tech.asia@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "MarTechSeries",
+    "name": "MarTech Series",
+    "bio": "Click to Follow MarTechSeries",
+    "email": null,
+    "profile_url": "https://twitter.com/MarTechSeries",
+    "scraped_at": "2025-10-16T19:33:15.834732",
+    "websites_found": [
+      "https://t.co/d7PfO6ZUvF"
+    ],
+    "website": "https://t.co/d7PfO6ZUvF",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "martech.series@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "Haje",
+    "name": "Haje",
+    "bio": "Click to Follow Haje",
+    "email": null,
+    "profile_url": "https://twitter.com/Haje",
+    "scraped_at": "2025-10-16T19:33:17.878511",
+    "websites_found": [
+      "https://observer.com",
+      "https://techcrunch.com"
+    ],
+    "website": "https://observer.com",
+    "all_contacts": {
+      "emails": [
+        "bill.mooney@politickernj.com",
+        "editor@politickernj.com",
+        "max.pizarro@politickernj.com",
+        "charles.bittermann@politickernj.com",
+        "matt.arco@politickernj.com",
+        "mark.bonamo@politickernj.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "andrewgordonmac",
+    "name": "Andrew Macdonald",
+    "bio": "Click to Follow andrewgordonmac",
+    "email": null,
+    "profile_url": "https://twitter.com/andrewgordonmac",
+    "scraped_at": "2025-10-16T19:33:19.299882",
+    "websites_found": [
+      "https://uber.com",
+      "https://bloomberg.com/news/articles/",
+      "https://bloomberg.com"
+    ],
+    "website": "https://uber.com",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "andrew.macdonald@uber.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "rebecca_szkutak",
+    "name": "Becca Szkutak",
+    "bio": "Click to Follow rebecca_szkutak",
+    "email": null,
+    "profile_url": "https://twitter.com/rebecca_szkutak",
+    "scraped_at": "2025-10-16T19:33:22.092197",
+    "websites_found": [
+      "https://t.co/yxq3OmkLrT"
+    ],
+    "website": "https://t.co/yxq3OmkLrT",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "becca.szkutak@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "meisenberg",
+    "name": "Meagen Eisenberg",
+    "bio": "Click to Follow meisenberg",
+    "email": null,
+    "profile_url": "https://twitter.com/meisenberg",
+    "scraped_at": "2025-10-16T19:33:24.901623",
+    "websites_found": [
+      "https://trucknews.com",
+      "https://youtube.com"
+    ],
+    "website": "https://trucknews.com",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "meagen.eisenberg@trucknews.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "DavidGeorge83",
+    "name": "David George",
+    "bio": "Click to Follow DavidGeorge83",
+    "email": null,
+    "profile_url": "https://twitter.com/DavidGeorge83",
+    "scraped_at": "2025-10-16T19:33:27.704795",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "LeylaSeka",
+    "name": "Leyla D. Seka",
+    "bio": "Click to Follow LeylaSeka",
+    "email": null,
+    "profile_url": "https://twitter.com/LeylaSeka",
+    "scraped_at": "2025-10-16T19:33:30.341026",
+    "websites_found": [
+      "https://t.co/oXy0HqtfBx"
+    ],
+    "website": "https://t.co/oXy0HqtfBx",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "leyla.seka@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "MueidShoaib",
+    "name": "Shoaib Abdul Mueid",
+    "bio": "Click to Follow MueidShoaib",
+    "email": null,
+    "profile_url": "https://twitter.com/MueidShoaib",
+    "scraped_at": "2025-10-16T19:33:32.462002",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "Rich__Chat",
+    "name": "RichChat",
+    "bio": "Click to Follow Rich__Chat",
+    "email": null,
+    "profile_url": "https://twitter.com/Rich__Chat",
+    "scraped_at": "2025-10-16T19:33:35.212142",
+    "websites_found": [
+      "https://t.co/jSJ1pgRuHN"
+    ],
+    "website": "https://t.co/jSJ1pgRuHN",
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "dailydribble1",
+    "name": "Ahad",
+    "bio": "Click to Follow dailydribble1",
+    "email": null,
+    "profile_url": "https://twitter.com/dailydribble1",
+    "scraped_at": "2025-10-16T19:33:37.461482",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "AriBlue2456",
+    "name": "Ari Blue",
+    "bio": "Click to Follow AriBlue2456",
+    "email": null,
+    "profile_url": "https://twitter.com/AriBlue2456",
+    "scraped_at": "2025-10-16T19:33:39.598225",
+    "websites_found": [
+      "https://t.co/WbcKtqUxSs"
+    ],
+    "website": "https://t.co/WbcKtqUxSs",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "ari.blue@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "ChetD4569",
+    "name": "Chester Day",
+    "bio": "Click to Follow ChetD4569",
+    "email": null,
+    "profile_url": "https://twitter.com/ChetD4569",
+    "scraped_at": "2025-10-16T19:33:41.053687",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "DanielL09282679",
+    "name": "Daniel Lee",
+    "bio": "Click to Follow DanielL09282679",
+    "email": null,
+    "profile_url": "https://twitter.com/DanielL09282679",
+    "scraped_at": "2025-10-16T19:33:43.374870",
+    "websites_found": [
+      "https://t.co/b2DF1rm9ij"
+    ],
+    "website": "https://t.co/b2DF1rm9ij",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "daniel.lee@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "vamo_avel",
+    "name": "Vamo Avel",
+    "bio": "Click to Follow vamo_avel",
+    "email": null,
+    "profile_url": "https://twitter.com/vamo_avel",
+    "scraped_at": "2025-10-16T19:33:45.265881",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "404MariaFound",
+    "name": "Wanjiru Mugo",
+    "bio": "Click to Follow 404MariaFound",
+    "email": null,
+    "profile_url": "https://twitter.com/404MariaFound",
+    "scraped_at": "2025-10-16T19:33:46.700632",
+    "websites_found": [
+      "https://t.co/qj67qjcMYx"
+    ],
+    "website": "https://t.co/qj67qjcMYx",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "wanjiru.mugo@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "rujirapong",
+    "name": "RujirapongInTheWorld",
+    "bio": "Click to Follow rujirapong",
+    "email": null,
+    "profile_url": "https://twitter.com/rujirapong",
+    "scraped_at": "2025-10-16T19:33:48.305073",
+    "websites_found": [
+      "https://t.co/eDFyM7C0m5"
+    ],
+    "website": "https://t.co/eDFyM7C0m5",
+    "all_contacts": {
+      "emails": [
+        "info@softnix.co.th",
+        "info@techtalkthai.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "TahaMahamoudS",
+    "name": "Taha Mahamoud",
+    "bio": "Click to Follow TahaMahamoudS",
+    "email": null,
+    "profile_url": "https://twitter.com/TahaMahamoudS",
+    "scraped_at": "2025-10-16T19:33:50.950717",
+    "websites_found": [
+      "https://t.co/08Msgn60S9"
+    ],
+    "website": "https://t.co/08Msgn60S9",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "taha.mahamoud@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "tdinh_me",
+    "name": "Tony Dinh ",
+    "bio": "Click to Follow tdinh_me",
+    "email": null,
+    "profile_url": "https://twitter.com/tdinh_me",
+    "scraped_at": "2025-10-16T19:37:52.457018",
+    "websites_found": [
+      "https://t.co/p4T2vFZoJ1"
+    ],
+    "website": "https://t.co/p4T2vFZoJ1",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "tony.dinh@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "rrhoover",
+    "name": "Ryan Hoover",
+    "bio": "Click to Follow rrhoover",
+    "email": null,
+    "profile_url": "https://twitter.com/rrhoover",
+    "scraped_at": "2025-10-16T19:37:54.541737",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "yongfook",
+    "name": "Jon Yongfook",
+    "bio": "Click to Follow yongfook",
+    "email": null,
+    "profile_url": "https://twitter.com/yongfook",
+    "scraped_at": "2025-10-16T19:37:56.798550",
+    "websites_found": [
+      "https://t.co/KoqV5WRAhy"
+    ],
+    "website": "https://t.co/KoqV5WRAhy",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "jon.yongfook@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "marc_louvion",
+    "name": "Marc Lou",
+    "bio": "Click to Follow marc_louvion",
+    "email": null,
+    "profile_url": "https://twitter.com/marc_louvion",
+    "scraped_at": "2025-10-16T19:37:58.306526",
+    "websites_found": [
+      "https://t.co/Y30jsaI4oH"
+    ],
+    "website": "https://t.co/Y30jsaI4oH",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "marc.lou@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "framer",
+    "name": "Framer",
+    "bio": "Click to Follow framer",
+    "email": null,
+    "profile_url": "https://twitter.com/framer",
+    "scraped_at": "2025-10-16T19:38:00.876952",
+    "websites_found": [
+      "https://t.co/5CEOYXXcUW"
+    ],
+    "website": "https://t.co/5CEOYXXcUW",
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "contact@framer.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "sveta_bay",
+    "name": "Sveta Bay",
+    "bio": "Click to Follow sveta_bay",
+    "email": null,
+    "profile_url": "https://twitter.com/sveta_bay",
+    "scraped_at": "2025-10-16T19:38:02.305311",
+    "websites_found": [
+      "https://t.co/MVP6vr0Pcw"
+    ],
+    "website": "https://t.co/MVP6vr0Pcw",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "sveta.bay@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "pbteja1998",
+    "name": "Bhanu Teja P",
+    "bio": "Click to Follow pbteja1998",
+    "email": null,
+    "profile_url": "https://twitter.com/pbteja1998",
+    "scraped_at": "2025-10-16T19:38:03.833752",
+    "websites_found": [
+      "https://t.co/QbPKIdGqOc"
+    ],
+    "website": "https://t.co/QbPKIdGqOc",
+    "all_contacts": {
+      "emails": [
+        "bhanu@sitegpt.ai.ready",
+        "bhanu@sitegpt.ai.we",
+        "content.bhanu@sitegpt.aiconvert",
+        "bhanu@sitegpt.ai"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "euboid",
+    "name": "Wilson Wilson",
+    "bio": "Click to Follow euboid",
+    "email": null,
+    "profile_url": "https://twitter.com/euboid",
+    "scraped_at": "2025-10-16T19:38:05.745863",
+    "websites_found": [
+      "https://t.co/9lkTzMgt6K"
+    ],
+    "website": "https://t.co/9lkTzMgt6K",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "wilson.wilson@t.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "d__raptis",
+    "name": "Jim Raptis",
+    "bio": "Click to Follow d__raptis",
+    "email": null,
+    "profile_url": "https://twitter.com/d__raptis",
+    "scraped_at": "2025-10-16T19:38:07.468812",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "ikoichi",
+    "name": "Luca Restagno  shipped.club",
+    "bio": "Click to Follow ikoichi",
+    "email": null,
+    "profile_url": "https://twitter.com/ikoichi",
+    "scraped_at": "2025-10-16T19:38:09.096560",
+    "websites_found": [],
+    "website": null,
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "luca@shipped.club"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "dr",
+    "name": "Dan Rowden",
+    "bio": "Click to Follow dr",
+    "email": null,
+    "profile_url": "https://twitter.com/dr",
+    "scraped_at": "2025-10-16T19:38:11.944650",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "_justlilian",
+    "name": "Lilian ッ",
+    "bio": "Click to Follow _justlilian",
+    "email": null,
+    "profile_url": "https://twitter.com/_justlilian",
+    "scraped_at": "2025-10-16T19:38:13.598907",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "5harath",
+    "name": "Sharath Kuruganty",
+    "bio": "Click to Follow 5harath",
+    "email": null,
+    "profile_url": "https://twitter.com/5harath",
+    "scraped_at": "2025-10-16T19:38:15.053834",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "nico_jeannen",
+    "name": "Nico",
+    "bio": "Click to Follow nico_jeannen",
+    "email": null,
+    "profile_url": "https://twitter.com/nico_jeannen",
+    "scraped_at": "2025-10-16T19:38:17.001969",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "nocodelife",
+    "name": "Kieran  Building apps with AI + nocode ",
+    "bio": "Click to Follow nocodelife",
+    "email": null,
+    "profile_url": "https://twitter.com/nocodelife",
+    "scraped_at": "2025-10-16T19:38:18.511117",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "ThePeterMick",
+    "name": "Peter Mick",
+    "bio": "Click to Follow ThePeterMick",
+    "email": null,
+    "profile_url": "https://twitter.com/ThePeterMick",
+    "scraped_at": "2025-10-16T19:38:21.541846",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "noahwbragg",
+    "name": "Noah Bragg ",
+    "bio": "Click to Follow noahwbragg",
+    "email": null,
+    "profile_url": "https://twitter.com/noahwbragg",
+    "scraped_at": "2025-10-16T19:38:23.161982",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "remotejoeclark",
+    "name": "Remote Joe",
+    "bio": "Click to Follow remotejoeclark",
+    "email": null,
+    "profile_url": "https://twitter.com/remotejoeclark",
+    "scraped_at": "2025-10-16T19:38:25.736622",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "JJEnglert",
+    "name": "JJ Englert",
+    "bio": "Click to Follow JJEnglert",
+    "email": null,
+    "profile_url": "https://twitter.com/JJEnglert",
+    "scraped_at": "2025-10-16T19:38:28.367235",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "joinbento",
+    "name": "Bento",
+    "bio": "Click to Follow joinbento",
+    "email": null,
+    "profile_url": "https://twitter.com/joinbento",
+    "scraped_at": "2025-10-16T19:38:30.182749",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "BuildInBits",
+    "name": "Muhammad Abdullah Khan",
+    "bio": "Click to Follow BuildInBits",
+    "email": null,
+    "profile_url": "https://twitter.com/BuildInBits",
+    "scraped_at": "2025-10-16T19:38:32.143329",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "PeteFilbin",
+    "name": "Pete Filbin",
+    "bio": "Click to Follow PeteFilbin",
+    "email": null,
+    "profile_url": "https://twitter.com/PeteFilbin",
+    "scraped_at": "2025-10-16T19:38:34.536459",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "fitcree_inc",
+    "name": "FitCree inc.",
+    "bio": "Click to Follow fitcree_inc",
+    "email": null,
+    "profile_url": "https://twitter.com/fitcree_inc",
+    "scraped_at": "2025-10-16T19:38:36.270514",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "YOROSIXcom",
+    "name": "YOROSIXcom",
+    "bio": "Click to Follow YOROSIXcom",
+    "email": null,
+    "profile_url": "https://twitter.com/YOROSIXcom",
+    "scraped_at": "2025-10-16T19:38:38.328716",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "drvshdv",
+    "name": "dsq",
+    "bio": "Click to Follow drvshdv",
+    "email": null,
+    "profile_url": "https://twitter.com/drvshdv",
+    "scraped_at": "2025-10-16T19:38:39.838804",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "XHalakon",
+    "name": "Jorge Yamal",
+    "bio": "Click to Follow XHalakon",
+    "email": null,
+    "profile_url": "https://twitter.com/XHalakon",
+    "scraped_at": "2025-10-16T19:38:41.024858",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "AmeliaRoseSimp1",
+    "name": "Amelia Rose Simpson",
+    "bio": "Click to Follow AmeliaRoseSimp1",
+    "email": null,
+    "profile_url": "https://twitter.com/AmeliaRoseSimp1",
+    "scraped_at": "2025-10-16T19:38:43.500826",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "cameron_kestis",
+    "name": "Cameron",
+    "bio": "Click to Follow cameron_kestis",
+    "email": null,
+    "profile_url": "https://twitter.com/cameron_kestis",
+    "scraped_at": "2025-10-16T19:38:46.099680",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "justlorddd",
+    "name": "CryptoLord",
+    "bio": "Click to Follow justlorddd",
+    "email": null,
+    "profile_url": "https://twitter.com/justlorddd",
+    "scraped_at": "2025-10-16T19:38:47.576508",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  },
+  {
+    "username": "SunnyL51351879",
+    "name": "Sunny Liu",
+    "bio": "Click to Follow SunnyL51351879",
+    "email": null,
+    "profile_url": "https://twitter.com/SunnyL51351879",
+    "scraped_at": "2025-10-16T19:38:49.628503",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "producthunt"
+  }
+]

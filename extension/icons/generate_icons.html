@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Generate DistroFlow Icons</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+      background: #f5f5f5;
+    }
+    .icon-preview {
+      margin: 20px 0;
+      padding: 20px;
+      background: white;
+      border-radius: 8px;
+    }
+    canvas {
+      border: 1px solid #ddd;
+      margin: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>DistroFlow Icon Generator</h1>
+  <p>Right-click each canvas and "Save image as..." to save the icons.</p>
+
+  <div class="icon-preview">
+    <h2>16x16 Icon</h2>
+    <canvas id="icon16" width="16" height="16"></canvas>
+  </div>
+
+  <div class="icon-preview">
+    <h2>48x48 Icon</h2>
+    <canvas id="icon48" width="48" height="48"></canvas>
+  </div>
+
+  <div class="icon-preview">
+    <h2>128x128 Icon</h2>
+    <canvas id="icon128" width="128" height="128"></canvas>
+  </div>
+
+  <script>
+    // Generate icons with DistroFlow branding
+    function drawIcon(canvas, size) {
+      const ctx = canvas.getContext('2d');
+
+      // Background gradient
+      const gradient = ctx.createLinearGradient(0, 0, size, size);
+      gradient.addColorStop(0, '#667eea');
+      gradient.addColorStop(1, '#764ba2');
+      ctx.fillStyle = gradient;
+      ctx.fillRect(0, 0, size, size);
+
+      // Draw rocket symbol
+      ctx.fillStyle = 'white';
+      ctx.font = `${size * 0.6}px Arial`;
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.fillText('🚀', size / 2, size / 2);
+
+      // Add border
+      ctx.strokeStyle = 'rgba(255, 255, 255, 0.3)';
+      ctx.lineWidth = Math.max(1, size / 32);
+      ctx.strokeRect(0, 0, size, size);
+    }
+
+    // Generate all sizes
+    drawIcon(document.getElementById('icon16'), 16);
+    drawIcon(document.getElementById('icon48'), 48);
+    drawIcon(document.getElementById('icon128'), 128);
+
+    // Auto-download function (optional)
+    function downloadIcons() {
+      ['icon16', 'icon48', 'icon128'].forEach(id => {
+        const canvas = document.getElementById(id);
+        const link = document.createElement('a');
+        link.download = `${id}.png`;
+        link.href = canvas.toDataURL();
+        link.click();
+      });
+    }
+
+    // Add download button
+    const btn = document.createElement('button');
+    btn.textContent = 'Download All Icons';
+    btn.style.cssText = 'padding: 10px 20px; font-size: 16px; cursor: pointer; margin: 20px;';
+    btn.onclick = downloadIcons;
+    document.body.insertBefore(btn, document.body.firstChild);
+  </script>
+</body>
+</html>

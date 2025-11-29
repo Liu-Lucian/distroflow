@@ -1,0 +1,41 @@
+﻿username,name,bio,website,websites_found,emails,email_source,email_status,email_confidence,scraped_from
+engadget,Engadget,Click to Follow engadget,https://t.co/XnAXVxyA78,https://t.co/XnAXVxyA78,tips@engadget.com,llm_inferred,,,techcrunch
+PCMag,PCMag,Click to Follow PCMag,https://t.co/GYkBloRfPz,https://t.co/GYkBloRfPz,tips@pcmag.com,llm_inferred,,,techcrunch
+ycombinator,Y Combinator,Click to Follow ycombinator,https://t.co/sjqjxxBeLc,https://t.co/sjqjxxBeLc,info@ycombinator.com,llm_inferred,,,techcrunch
+ForbesTech,Forbes Tech,Click to Follow ForbesTech,https://t.co/RYx11CDiN8,https://t.co/RYx11CDiN8,tech@forbes.com,llm_inferred,,,techcrunch
+RajanAnandan,Rajan Anandan,Click to Follow RajanAnandan,https://amazon.com,https://amazon.com,rajan.anandan@amazon.com,pattern_guessed,,,techcrunch
+bayareawriter,Mary Ann Azevedo,Click to Follow bayareawriter,https://t.co/WrUJE75HyR,https://t.co/WrUJE75HyR,maryann@[domainfrompersonalsite].com,llm_inferred,,,techcrunch
+aileenlee,aileenlee,Click to Follow aileenlee,https://t.co/NqGqheN6eu,https://t.co/NqGqheN6eu,"inquiries@cowboy.vc, ushello@cowboy.vcfor",found,,,techcrunch
+joshk,Josh Kopelman,Click to Follow joshk,https://parallel.ai/blog/cookbook-,"https://parallel.ai/blog/cookbook-, https://parallel.ai","hello@parallel.ai, contacthello@parallel.ai",found,,,techcrunch
+ron_miller,Ron Miller,Click to Follow ron_miller,https://t.co/yOggkkgdcm,https://t.co/yOggkkgdcm,,found,,,techcrunch
+ForbesTechCncl,Forbes Technology Council,Click to Follow ForbesTechCncl,https://t.co/VrqtedKcov,https://t.co/VrqtedKcov,techcouncil@forbes.com,llm_inferred,,,techcrunch
+tdinh_me,Tony Dinh ,Click to Follow tdinh_me,https://t.co/p4T2vFZoJ1,https://t.co/p4T2vFZoJ1,,found,,,producthunt
+rrhoover,Ryan Hoover,Click to Follow rrhoover,,,ryan@ryanhoover.me,llm_inferred,,,producthunt
+yongfook,Jon Yongfook,Click to Follow yongfook,https://t.co/KoqV5WRAhy,https://t.co/KoqV5WRAhy,jon@yongfook.com,llm_inferred,,,producthunt
+marc_louvion,Marc Lou,Click to Follow marc_louvion,https://t.co/Y30jsaI4oH,https://t.co/Y30jsaI4oH,marc@[个人域名],llm_inferred,,,producthunt
+framer,Framer,Click to Follow framer,https://t.co/5CEOYXXcUW,https://t.co/5CEOYXXcUW,,found,,,producthunt
+sveta_bay,Sveta Bay,Click to Follow sveta_bay,https://t.co/MVP6vr0Pcw,https://t.co/MVP6vr0Pcw,,found,,,producthunt
+pbteja1998,Bhanu Teja P,Click to Follow pbteja1998,https://t.co/QbPKIdGqOc,https://t.co/QbPKIdGqOc,"bhanu@sitegpt.ai.ready, bhanu@sitegpt.ai, content.bhanu@sitegpt.aiconvert, bhanu@sitegpt.ai.we",found,,,producthunt
+euboid,Wilson Wilson,Click to Follow euboid,https://t.co/9lkTzMgt6K,https://t.co/9lkTzMgt6K,,found,,,producthunt
+d__raptis,Jim Raptis,Click to Follow d__raptis,https://t.co/hdZZyhbjsk,https://t.co/hdZZyhbjsk,,found,,,producthunt
+ikoichi,Luca Restagno  shipped.club,Click to Follow ikoichi,https://t.co/vN7E8WqBun,https://t.co/vN7E8WqBun,"with@blacktwistapp.an, to@luca.restagno",found,,,producthunt
+sbrownehr,Steve Browne,Click to Follow sbrownehr,https://t.co/So6ORc1YC4,https://t.co/So6ORc1YC4,,found,,,HRTechConf
+david_green_uk,David Green,Click to Follow david_green_uk,https://t.co/949TFfPFiR,https://t.co/949TFfPFiR,,found,,,HRTechConf
+Josh_Bersin,Josh Bersin,Click to Follow Josh_Bersin,https://t.co/G1NeCLWtok,https://t.co/G1NeCLWtok,josh@joshbersin.com,llm_inferred,,,HRTechConf
+ImSoSarah,Sarah,Click to Follow ImSoSarah,https://t.co/V1WnWE7daq,https://t.co/V1WnWE7daq,hirenow@hrutech.comsocial,found,,,HRTechConf
+Madtarquin,Madeline Laurano,Click to Follow Madtarquin,https://t.co/1SaAtU7gLI,https://t.co/1SaAtU7gLI,,found,,,HRTechConf
+JeffreyWShapiro,𝘑𝘦𝘧𝘧 𝘚𝘩𝘢𝘱𝘪𝘳𝘰,Click to Follow JeffreyWShapiro,,,,found,,,HRTechConf
+SBGHRTech,Steve-G,Click to Follow SBGHRTech,https://linkedin.com,https://linkedin.com,,found,,,HRTechConf
+KatrinaKibben,Katrina Kibben,Click to Follow KatrinaKibben,https://m.wikipedia,"https://m.wikipedia, https://abcnews.go, https://wikipedia.org, https://go.com",katrina.kibben@m.wikipedia,pattern_guessed,,,HRTechConf
+Trish_Steed,Trish Steed,Click to Follow Trish_Steed,https://t.co/w01o1HrLwF,https://t.co/w01o1HrLwF,,found,,,HRTechConf
+holgermu,Holger Müller #EnterpriseAcceleration,Click to Follow holgermu,https://t.co/vJZDxhLsmw,https://t.co/vJZDxhLsmw,,found,,,HRTechConf
+sbrownehr,Steve Browne,Click to Follow sbrownehr,https://t.co/So6ORc1YC4,https://t.co/So6ORc1YC4,steve.browne@[company].com,llm_inferred,,,hrmagazine
+david_green_uk,David Green,Click to Follow david_green_uk,https://t.co/949TFfPFiR,https://t.co/949TFfPFiR,,found,,,hrmagazine
+CIPD,CIPD,Click to Follow CIPD,https://t.co/1zFrxtF8u0,https://t.co/1zFrxtF8u0,personneltoday@e.personneltoday.com,found,,,hrmagazine
+HRCurator,HRCurator,Click to Follow HRCurator,https://t.co/CdR3FbIGx2,https://t.co/CdR3FbIGx2,,found,,,hrmagazine
+Josh_Bersin,Josh Bersin,Click to Follow Josh_Bersin,https://t.co/G1NeCLWtok,https://t.co/G1NeCLWtok,josh@joshbersin.com,llm_inferred,,,hrmagazine
+ProfCaryCooper,Cary Cooper,Click to Follow ProfCaryCooper,,,c.cooper@[university].ac.uk,llm_inferred,,,hrmagazine
+Gary_Cookson,Gary Cookson,Click to Follow Gary_Cookson,https://t.co/Dm4gYTcQqD,https://t.co/Dm4gYTcQqD,,found,,,hrmagazine
+JeffreyWShapiro,𝘑𝘦𝘧𝘧 𝘚𝘩𝘢𝘱𝘪𝘳𝘰,Click to Follow JeffreyWShapiro,,,,found,,,hrmagazine
+theHRDIRECTOR,theHRDIRECTOR,Click to Follow theHRDIRECTOR,,,info@thehrdirector.com,llm_inferred,,,hrmagazine
+RajanNS,Dr N S Rajan,Click to Follow RajanNS,,,,found,,,hrmagazine

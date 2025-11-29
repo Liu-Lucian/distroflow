@@ -1,0 +1,9 @@
+pandas
+anthropic
+beautifulsoup4
+openai
+pdfminer.six
+python-docx
+requests
+python-dotenv
+playwright

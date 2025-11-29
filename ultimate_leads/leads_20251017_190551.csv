@@ -1,0 +1,46 @@
+﻿username,name,bio,website,websites_found,emails,email_source,email_status,email_confidence,scraped_from
+engadget,Engadget,Click to Follow engadget,https://t.co/XnAXVxyA78,https://t.co/XnAXVxyA78,tips@engadget.com,llm_inferred,,,techcrunch
+PCMag,PCMag,Click to Follow PCMag,https://t.co/GYkBloRfPz,https://t.co/GYkBloRfPz,editors@pcmag.com,llm_inferred,,,techcrunch
+ycombinator,Y Combinator,Click to Follow ycombinator,https://t.co/sjqjxxBeLc,https://t.co/sjqjxxBeLc,info@ycombinator.com,llm_inferred,,,techcrunch
+ForbesTech,Forbes Tech,Click to Follow ForbesTech,https://t.co/RYx11CDiN8,https://t.co/RYx11CDiN8,tech@forbes.com,llm_inferred,,,techcrunch
+RajanAnandan,Rajan Anandan,Click to Follow RajanAnandan,https://tradeify.co,"https://tradeify.co, https://amazon.com",rajan.anandan@tradeify.co,pattern_guessed,,,techcrunch
+bayareawriter,Mary Ann Azevedo,Click to Follow bayareawriter,https://t.co/WrUJE75HyR,https://t.co/WrUJE75HyR,maryann@[domain],llm_inferred,,,techcrunch
+aileenlee,aileenlee,Click to Follow aileenlee,https://t.co/NqGqheN6eu,https://t.co/NqGqheN6eu,"ushello@cowboy.vcfor, inquiries@cowboy.vc",found,,,techcrunch
+joshk,Josh Kopelman,Click to Follow joshk,https://parallel.ai/blog/cookbook-,"https://parallel.ai/blog/cookbook-, https://parallel.ai","contacthello@parallel.ai, hello@parallel.ai",found,,,techcrunch
+ron_miller,Ron Miller,Click to Follow ron_miller,https://t.co/yOggkkgdcm,https://t.co/yOggkkgdcm,,found,,,techcrunch
+ForbesTechCncl,Forbes Technology Council,Click to Follow ForbesTechCncl,https://t.co/VrqtedKcov,https://t.co/VrqtedKcov,techcouncil@forbes.com,llm_inferred,,,techcrunch
+ErynLittel,Eryn Littel,Click to Follow ErynLittel,https://benzinga.com/news/social-me,"https://benzinga.com/news/social-me, https://benzinga.com/news/politics/, https://benzinga.com","contentinfo@benzinga.comcustomer, 440-9464onboarding@benzinga.comnot, contentcorrections@benzinga.cominquiriesfor, servicesvipaccounts@benzinga.comhelp, benzingaads@benzinga.comwebsitenews, benzingacontributors@benzinga.comportallicensingto, opportunitieslicensing@benzinga.comwebsiteadvertisingfor",found,,,hrexecutive
+Masticateho5o,Gloria,Click to Follow Masticateho5o,https://t.co/7PQD7o6fLw,https://t.co/7PQD7o6fLw,,found,,,hrexecutive
+pankajanet,mario_pk,Click to Follow pankajanet,https://t.co/r3pGfmo76q,https://t.co/r3pGfmo76q,85251community@featured.comfollow,found,,,hrexecutive
+Nightn_kc0P,Gloria,Click to Follow Nightn_kc0P,https://t.co/7PQD7o6fLw,https://t.co/7PQD7o6fLw,,found,,,hrexecutive
+neelam8040,Neelam,Click to Follow neelam8040,https://t.co/m04lzU6Dte,https://t.co/m04lzU6Dte,,found,,,hrexecutive
+ai_recruit98648,AI_Recruiter,Click to Follow ai_recruit98648,https://t.co/rTLFVrHjtk,https://t.co/rTLFVrHjtk,,found,,,hrexecutive
+ArifurJashim,jasim uddin,Click to Follow ArifurJashim,https://t.co/IJeXsDFrEM,https://t.co/IJeXsDFrEM,,found,,,hrexecutive
+WDShahdat,WD Shahdat,Click to Follow WDShahdat,https://t.co/5lcB43OIXI,https://t.co/5lcB43OIXI,,found,,,hrexecutive
+PLACONHR,PLACON HR Services,Click to Follow PLACONHR,https://placonhr.com,"https://placonhr.com, https://linkedin.com","00624contactus@placonhr.inquick, uscontactus@placonhr.inexecutiveleadership",found,,,hrexecutive
+DiamondCons,Diamond Consultants,Click to Follow DiamondCons,https://t.co/WbcKtqUxSs,https://t.co/WbcKtqUxSs,contact@diamondcons.com,llm_inferred,,,hrexecutive
+sbrownehr,Steve Browne,Click to Follow sbrownehr,https://t.co/So6ORc1YC4,https://t.co/So6ORc1YC4,,found,,,shrm
+david_green_uk,David Green,Click to Follow david_green_uk,https://t.co/949TFfPFiR,https://t.co/949TFfPFiR,,found,,,shrm
+JeffreyWShapiro,𝘑𝘦𝘧𝘧 𝘚𝘩𝘢𝘱𝘪𝘳𝘰,Click to Follow JeffreyWShapiro,,,jeffrey.shapiro@unknown.com,llm_inferred,,,shrm
+KatrinaKibben,Katrina Kibben,Click to Follow KatrinaKibben,https://m.wikipedia,"https://m.wikipedia, https://abcnews.go, https://wikipedia.org, https://go.com",katrina.kibben@m.wikipedia,pattern_guessed,,,shrm
+_strclaire,"Claire Stroh, MBA, PHR, SHRM-CP (She/Her)",Click to Follow _strclaire,https://Rippling.What,"https://Rippling.What, https://hrsummerschool.org, https://shrm.org",claire.(she/her)@rippling.what,pattern_guessed,,,shrm
+JohnnyCTaylorJr,"Johnny C. Taylor, Jr., SHRM-SCP",Click to Follow JohnnyCTaylorJr,,,johnny.taylor@shrm.org,llm_inferred,,,shrm
+Josh_Bersin,Josh Bersin,Click to Follow Josh_Bersin,https://t.co/G1NeCLWtok,https://t.co/G1NeCLWtok,josh@joshbersin.com,llm_inferred,,,shrm
+TimSackett,"Tim Sackett SCP,SPHR",Click to Follow TimSackett,https://t.co/V1WnWE7daq,https://t.co/V1WnWE7daq,hirenow@hrutech.comsocial,found,,,shrm
+memorynguwi,Memory Nguwi,Click to Follow memorynguwi,https://t.co/oVKJWb8lp1,https://t.co/oVKJWb8lp1,bis@ipcconsultants.comaddress,found,,,shrm
+ImSoSarah,Sarah,Click to Follow ImSoSarah,https://t.co/y9ICGxRjng,https://t.co/y9ICGxRjng,,found,,,shrm
+iosRecruiter,Deven Narayanan,Click to Follow iosRecruiter,https://t.co/qj67qjcMYx,https://t.co/qj67qjcMYx,,found,,,recruitercom
+Dullce7rcj,Lucille Nelson,Click to Follow Dullce7rcj,http://edurl.us/m2,"http://edurl.us/m2, https://edurl.us/m2",lucille.nelson@edurl.us,pattern_guessed,,,recruitercom
+bayareawriter,Mary Ann Azevedo,Click to Follow bayareawriter,https://t.co/WrUJE75HyR,https://t.co/WrUJE75HyR,maryann@[domain].com,llm_inferred,,,recruitercom
+DavidGeorge83,David George,Click to Follow DavidGeorge83,,,davidgeorge83@gmail.com,llm_inferred,,,recruitercom
+joshk,Josh Kopelman,Click to Follow joshk,https://parallel.ai/blog/cookbook-,"https://parallel.ai/blog/cookbook-, https://parallel.ai","contacthello@parallel.ai, hello@parallel.ai",found,,,recruitercom
+Trish_Steed,Trish Steed,Click to Follow Trish_Steed,https://t.co/w01o1HrLwF,https://t.co/w01o1HrLwF,,found,,,hrtechnologist
+ImSoSarah,Sarah,Click to Follow ImSoSarah,,,,found,,,hrtechnologist
+holgermu,Holger Müller #EnterpriseAcceleration,Click to Follow holgermu,,,,found,,,hrtechnologist
+sbrownehr,Steve Browne,Click to Follow sbrownehr,,,sbrowne@[company].com,llm_inferred,,,hrtechnologist
+rwang0,R “Ray” Wang 王瑞光 #Cupertino #AI #Energy R.NFT,Click to Follow rwang0,,,rwang0@gmail.com,llm_inferred,,,hrtechnologist
+megbear,Meg Bear (she/her),Click to Follow megbear,,,meg@megbear.com,llm_inferred,,,hrtechnologist
+Madtarquin,Madeline Laurano,Click to Follow Madtarquin,,,madeline.laurano@gmail.com,llm_inferred,,,hrtechnologist
+SBGHRTech,Steve-G,Click to Follow SBGHRTech,,,,found,,,hrtechnologist
+havrilla,Chris Havrilla (she/her),Click to Follow havrilla,,,chavrilla@[company].com,llm_inferred,,,hrtechnologist
+StaceyHarrisHR,Stacey Lynn Harris,Click to Follow StaceyHarrisHR,,,sharris@[company].com,llm_inferred,,,hrtechnologist

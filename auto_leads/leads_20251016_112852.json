@@ -1,0 +1,33 @@
+[
+  {
+    "username": "md5353416877656",
+    "name": "أحمد",
+    "bio": "Click to Follow md5353416877656",
+    "email": null,
+    "profile_url": "https://twitter.com/md5353416877656",
+    "scraped_at": "2025-10-16T11:19:20.104789",
+    "all_contacts": {
+      "emails": [],
+      "phones": [
+        "5353416877"
+      ],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": [],
+      "potential_contact_pages": [
+        "https://twitter.com/contact",
+        "https://twitter.com/about",
+        "https://twitter.com/team",
+        "https://twitter.com/connect",
+        "https://twitter.com/reach-us",
+        "https://twitter.com/contact-us",
+        "https://twitter.com/get-in-touch"
+      ]
+    },
+    "contact_quality_score": 20,
+    "scraped_from": "producthunt",
+    "seed_account": "producthunt",
+    "relevance_score": 0.0,
+    "total_score": 8.0
+  }
+]

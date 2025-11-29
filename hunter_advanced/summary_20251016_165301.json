@@ -1,0 +1,9 @@
+{
+  "total_leads": 60,
+  "leads_with_email": 33,
+  "email_rate": 55.00000000000001,
+  "deep_scraped": 60,
+  "guessed_emails": 1,
+  "output_file": "hunter_advanced/leads_20251016_165301.csv",
+  "json_file": "hunter_advanced/leads_20251016_165301.json"
+}

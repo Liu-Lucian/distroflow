@@ -1,0 +1,47 @@
+{
+  "date": "2025-10-24",
+  "source": "Visual Extraction + Name-based URL",
+  "products": [
+    {
+      "url": "https://www.producthunt.com/posts/hakkoai",
+      "name": "HakkoAI",
+      "tagline": "HakkoAI - Product from Product Hunt Today",
+      "category": "Various",
+      "description": "Auto-extracted from today",
+      "votes": 0
+    },
+    {
+      "url": "https://www.producthunt.com/posts/next-js-16",
+      "name": "Next.js 16",
+      "tagline": "Next.js 16 - Product from Product Hunt Today",
+      "category": "Various",
+      "description": "Auto-extracted from today",
+      "votes": 0
+    },
+    {
+      "url": "https://www.producthunt.com/posts/google-skills",
+      "name": "Google Skills",
+      "tagline": "Google Skills - Product from Product Hunt Today",
+      "category": "Various",
+      "description": "Auto-extracted from today",
+      "votes": 0
+    },
+    {
+      "url": "https://www.producthunt.com/posts/tailkits-ui",
+      "name": "Tailkits UI",
+      "tagline": "Tailkits UI - Product from Product Hunt Today",
+      "category": "Various",
+      "description": "Auto-extracted from today",
+      "votes": 0
+    },
+    {
+      "url": "https://www.producthunt.com/posts/reflex",
+      "name": "Reflex",
+      "tagline": "Reflex - Product from Product Hunt Today",
+      "category": "Various",
+      "description": "Auto-extracted from today",
+      "votes": 0
+    }
+  ],
+  "updated_at": "2025-10-24T20:30:00"
+}

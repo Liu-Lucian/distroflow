@@ -1,0 +1,8 @@
+{
+  "total_leads": 10,
+  "leads_with_email": 10,
+  "email_rate": 100.0,
+  "leads_with_website": 10,
+  "website_discovery_rate": 100.0,
+  "output_file": "ultimate_leads/leads_20251016_221006.csv"
+}

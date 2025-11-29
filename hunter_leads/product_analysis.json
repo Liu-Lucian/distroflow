@@ -1,0 +1,85 @@
+{
+  "keywords": [
+    "AI task management",
+    "workflow automation",
+    "real-time collaboration",
+    "API-first",
+    "cloud-native",
+    "serverless",
+    "React",
+    "Next.js",
+    "TypeScript",
+    "task prioritization",
+    "async-first",
+    "workload balancing",
+    "team productivity",
+    "bottleneck prediction",
+    "task analytics"
+  ],
+  "target_personas": [
+    "SaaS Founders and Co-founders",
+    "Startup CTOs and VPs of Engineering",
+    "Product Managers",
+    "Indie Hackers",
+    "B2B Sales Leaders"
+  ],
+  "industries": [
+    "B2B SaaS",
+    "Enterprise Software",
+    "Productivity Tools",
+    "Developer Tools",
+    "Remote Work Solutions"
+  ],
+  "pain_points": [
+    "Manual task prioritization wastes 2-3 hours weekly",
+    "40% productivity loss from context switching",
+    "Lack of visibility into bottlenecks",
+    "Inefficient meetings and status updates",
+    "Burnout from poor workload distribution"
+  ],
+  "use_cases": [
+    "Agile Sprint Planning",
+    "Remote Team Coordination",
+    "Product Development",
+    "Engineering Team Management",
+    "Cross-functional Project Alignment"
+  ],
+  "competitor_keywords": [
+    "asana",
+    "trello",
+    "monday.com",
+    "clickup",
+    "notion",
+    "linear",
+    "project management",
+    "task tracking",
+    "work OS",
+    "team collaboration"
+  ],
+  "twitter_hashtags": [
+    "#SaaS",
+    "#B2B",
+    "#ProductivityTools",
+    "#ProjectManagement",
+    "#StartupTools",
+    "#IndieHackers",
+    "#YCombinator",
+    "#RemoteWork",
+    "#TeamCollaboration",
+    "#WorkflowAutomation",
+    "#TaskManagement",
+    "#EngineeringTools",
+    "#ProductManagement",
+    "#SaaSFounders",
+    "#BuildInPublic"
+  ],
+  "target_account_types": [
+    "Startup Community Accounts",
+    "SaaS Company Accounts",
+    "Tech Influencers",
+    "Developer Tool Companies",
+    "Productivity Tool Companies",
+    "Startup Accelerators",
+    "B2B Tech Communities"
+  ]
+}

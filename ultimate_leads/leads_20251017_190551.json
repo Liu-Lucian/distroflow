@@ -1,0 +1,982 @@
+[
+  {
+    "username": "engadget",
+    "name": "Engadget",
+    "bio": "Click to Follow engadget",
+    "email": null,
+    "profile_url": "https://twitter.com/engadget",
+    "scraped_at": "2025-10-17T18:56:31.963472",
+    "websites_found": [
+      "https://t.co/XnAXVxyA78"
+    ],
+    "website": "https://t.co/XnAXVxyA78",
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "tips@engadget.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "PCMag",
+    "name": "PCMag",
+    "bio": "Click to Follow PCMag",
+    "email": null,
+    "profile_url": "https://twitter.com/PCMag",
+    "scraped_at": "2025-10-17T18:56:34.010007",
+    "websites_found": [
+      "https://t.co/GYkBloRfPz"
+    ],
+    "website": "https://t.co/GYkBloRfPz",
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "editors@pcmag.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "ycombinator",
+    "name": "Y Combinator",
+    "bio": "Click to Follow ycombinator",
+    "email": null,
+    "profile_url": "https://twitter.com/ycombinator",
+    "scraped_at": "2025-10-17T18:56:35.721207",
+    "websites_found": [
+      "https://t.co/sjqjxxBeLc"
+    ],
+    "website": "https://t.co/sjqjxxBeLc",
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "info@ycombinator.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "ForbesTech",
+    "name": "Forbes Tech",
+    "bio": "Click to Follow ForbesTech",
+    "email": null,
+    "profile_url": "https://twitter.com/ForbesTech",
+    "scraped_at": "2025-10-17T18:56:37.799696",
+    "websites_found": [
+      "https://t.co/RYx11CDiN8"
+    ],
+    "website": "https://t.co/RYx11CDiN8",
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "tech@forbes.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "RajanAnandan",
+    "name": "Rajan Anandan",
+    "bio": "Click to Follow RajanAnandan",
+    "email": null,
+    "profile_url": "https://twitter.com/RajanAnandan",
+    "scraped_at": "2025-10-17T18:56:39.457077",
+    "websites_found": [
+      "https://tradeify.co",
+      "https://amazon.com"
+    ],
+    "website": "https://tradeify.co",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "rajan.anandan@tradeify.co"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "bayareawriter",
+    "name": "Mary Ann Azevedo",
+    "bio": "Click to Follow bayareawriter",
+    "email": null,
+    "profile_url": "https://twitter.com/bayareawriter",
+    "scraped_at": "2025-10-17T18:56:41.744076",
+    "websites_found": [
+      "https://t.co/WrUJE75HyR"
+    ],
+    "website": "https://t.co/WrUJE75HyR",
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "maryann@[domain]"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "aileenlee",
+    "name": "aileenlee",
+    "bio": "Click to Follow aileenlee",
+    "email": null,
+    "profile_url": "https://twitter.com/aileenlee",
+    "scraped_at": "2025-10-17T18:56:43.831687",
+    "websites_found": [
+      "https://t.co/NqGqheN6eu"
+    ],
+    "website": "https://t.co/NqGqheN6eu",
+    "all_contacts": {
+      "emails": [
+        "ushello@cowboy.vcfor",
+        "inquiries@cowboy.vc"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "joshk",
+    "name": "Josh Kopelman",
+    "bio": "Click to Follow joshk",
+    "email": null,
+    "profile_url": "https://twitter.com/joshk",
+    "scraped_at": "2025-10-17T18:56:46.145303",
+    "websites_found": [
+      "https://parallel.ai/blog/cookbook-",
+      "https://parallel.ai"
+    ],
+    "website": "https://parallel.ai/blog/cookbook-",
+    "all_contacts": {
+      "emails": [
+        "contacthello@parallel.ai",
+        "hello@parallel.ai"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "ron_miller",
+    "name": "Ron Miller",
+    "bio": "Click to Follow ron_miller",
+    "email": null,
+    "profile_url": "https://twitter.com/ron_miller",
+    "scraped_at": "2025-10-17T18:56:47.622617",
+    "websites_found": [
+      "https://t.co/yOggkkgdcm"
+    ],
+    "website": "https://t.co/yOggkkgdcm",
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "ForbesTechCncl",
+    "name": "Forbes Technology Council",
+    "bio": "Click to Follow ForbesTechCncl",
+    "email": null,
+    "profile_url": "https://twitter.com/ForbesTechCncl",
+    "scraped_at": "2025-10-17T18:56:49.662951",
+    "websites_found": [
+      "https://t.co/VrqtedKcov"
+    ],
+    "website": "https://t.co/VrqtedKcov",
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "techcouncil@forbes.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "techcrunch"
+  },
+  {
+    "username": "ErynLittel",
+    "name": "Eryn Littel",
+    "bio": "Click to Follow ErynLittel",
+    "email": null,
+    "profile_url": "https://twitter.com/ErynLittel",
+    "scraped_at": "2025-10-17T18:58:32.569195",
+    "websites_found": [
+      "https://benzinga.com/news/social-me",
+      "https://benzinga.com/news/politics/",
+      "https://benzinga.com"
+    ],
+    "website": "https://benzinga.com/news/social-me",
+    "all_contacts": {
+      "emails": [
+        "contentinfo@benzinga.comcustomer",
+        "440-9464onboarding@benzinga.comnot",
+        "contentcorrections@benzinga.cominquiriesfor",
+        "servicesvipaccounts@benzinga.comhelp",
+        "benzingaads@benzinga.comwebsitenews",
+        "benzingacontributors@benzinga.comportallicensingto",
+        "opportunitieslicensing@benzinga.comwebsiteadvertisingfor"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrexecutive"
+  },
+  {
+    "username": "Masticateho5o",
+    "name": "Gloria",
+    "bio": "Click to Follow Masticateho5o",
+    "email": null,
+    "profile_url": "https://twitter.com/Masticateho5o",
+    "scraped_at": "2025-10-17T18:58:34.839371",
+    "websites_found": [
+      "https://t.co/7PQD7o6fLw"
+    ],
+    "website": "https://t.co/7PQD7o6fLw",
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrexecutive"
+  },
+  {
+    "username": "pankajanet",
+    "name": "mario_pk",
+    "bio": "Click to Follow pankajanet",
+    "email": null,
+    "profile_url": "https://twitter.com/pankajanet",
+    "scraped_at": "2025-10-17T18:58:37.233616",
+    "websites_found": [
+      "https://t.co/r3pGfmo76q"
+    ],
+    "website": "https://t.co/r3pGfmo76q",
+    "all_contacts": {
+      "emails": [
+        "85251community@featured.comfollow"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrexecutive"
+  },
+  {
+    "username": "Nightn_kc0P",
+    "name": "Gloria",
+    "bio": "Click to Follow Nightn_kc0P",
+    "email": null,
+    "profile_url": "https://twitter.com/Nightn_kc0P",
+    "scraped_at": "2025-10-17T18:58:38.671828",
+    "websites_found": [
+      "https://t.co/7PQD7o6fLw"
+    ],
+    "website": "https://t.co/7PQD7o6fLw",
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrexecutive"
+  },
+  {
+    "username": "neelam8040",
+    "name": "Neelam",
+    "bio": "Click to Follow neelam8040",
+    "email": null,
+    "profile_url": "https://twitter.com/neelam8040",
+    "scraped_at": "2025-10-17T18:58:40.861745",
+    "websites_found": [
+      "https://t.co/m04lzU6Dte"
+    ],
+    "website": "https://t.co/m04lzU6Dte",
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrexecutive"
+  },
+  {
+    "username": "ai_recruit98648",
+    "name": "AI_Recruiter",
+    "bio": "Click to Follow ai_recruit98648",
+    "email": null,
+    "profile_url": "https://twitter.com/ai_recruit98648",
+    "scraped_at": "2025-10-17T18:58:42.810625",
+    "websites_found": [
+      "https://t.co/rTLFVrHjtk"
+    ],
+    "website": "https://t.co/rTLFVrHjtk",
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrexecutive"
+  },
+  {
+    "username": "ArifurJashim",
+    "name": "jasim uddin",
+    "bio": "Click to Follow ArifurJashim",
+    "email": null,
+    "profile_url": "https://twitter.com/ArifurJashim",
+    "scraped_at": "2025-10-17T18:58:45.518376",
+    "websites_found": [
+      "https://t.co/IJeXsDFrEM"
+    ],
+    "website": "https://t.co/IJeXsDFrEM",
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrexecutive"
+  },
+  {
+    "username": "WDShahdat",
+    "name": "WD Shahdat",
+    "bio": "Click to Follow WDShahdat",
+    "email": null,
+    "profile_url": "https://twitter.com/WDShahdat",
+    "scraped_at": "2025-10-17T18:58:47.189756",
+    "websites_found": [
+      "https://t.co/5lcB43OIXI"
+    ],
+    "website": "https://t.co/5lcB43OIXI",
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrexecutive"
+  },
+  {
+    "username": "PLACONHR",
+    "name": "PLACON HR Services",
+    "bio": "Click to Follow PLACONHR",
+    "email": null,
+    "profile_url": "https://twitter.com/PLACONHR",
+    "scraped_at": "2025-10-17T18:58:49.560424",
+    "websites_found": [
+      "https://placonhr.com",
+      "https://linkedin.com"
+    ],
+    "website": "https://placonhr.com",
+    "all_contacts": {
+      "emails": [
+        "00624contactus@placonhr.inquick",
+        "uscontactus@placonhr.inexecutiveleadership"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrexecutive"
+  },
+  {
+    "username": "DiamondCons",
+    "name": "Diamond Consultants",
+    "bio": "Click to Follow DiamondCons",
+    "email": null,
+    "profile_url": "https://twitter.com/DiamondCons",
+    "scraped_at": "2025-10-17T18:58:51.808859",
+    "websites_found": [
+      "https://t.co/WbcKtqUxSs"
+    ],
+    "website": "https://t.co/WbcKtqUxSs",
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "contact@diamondcons.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrexecutive"
+  },
+  {
+    "username": "sbrownehr",
+    "name": "Steve Browne",
+    "bio": "Click to Follow sbrownehr",
+    "email": null,
+    "profile_url": "https://twitter.com/sbrownehr",
+    "scraped_at": "2025-10-17T19:00:18.603703",
+    "websites_found": [
+      "https://t.co/So6ORc1YC4"
+    ],
+    "website": "https://t.co/So6ORc1YC4",
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "shrm"
+  },
+  {
+    "username": "david_green_uk",
+    "name": "David Green",
+    "bio": "Click to Follow david_green_uk",
+    "email": null,
+    "profile_url": "https://twitter.com/david_green_uk",
+    "scraped_at": "2025-10-17T19:00:21.003319",
+    "websites_found": [
+      "https://t.co/949TFfPFiR"
+    ],
+    "website": "https://t.co/949TFfPFiR",
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "shrm"
+  },
+  {
+    "username": "JeffreyWShapiro",
+    "name": "𝘑𝘦𝘧𝘧 𝘚𝘩𝘢𝘱𝘪𝘳𝘰",
+    "bio": "Click to Follow JeffreyWShapiro",
+    "email": null,
+    "profile_url": "https://twitter.com/JeffreyWShapiro",
+    "scraped_at": "2025-10-17T19:00:23.180931",
+    "websites_found": [],
+    "website": null,
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "jeffrey.shapiro@unknown.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "shrm"
+  },
+  {
+    "username": "KatrinaKibben",
+    "name": "Katrina Kibben",
+    "bio": "Click to Follow KatrinaKibben",
+    "email": null,
+    "profile_url": "https://twitter.com/KatrinaKibben",
+    "scraped_at": "2025-10-17T19:00:25.266883",
+    "websites_found": [
+      "https://m.wikipedia",
+      "https://abcnews.go",
+      "https://wikipedia.org",
+      "https://go.com"
+    ],
+    "website": "https://m.wikipedia",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "katrina.kibben@m.wikipedia"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "shrm"
+  },
+  {
+    "username": "_strclaire",
+    "name": "Claire Stroh, MBA, PHR, SHRM-CP (She/Her)",
+    "bio": "Click to Follow _strclaire",
+    "email": null,
+    "profile_url": "https://twitter.com/_strclaire",
+    "scraped_at": "2025-10-17T19:00:27.037206",
+    "websites_found": [
+      "https://Rippling.What",
+      "https://hrsummerschool.org",
+      "https://shrm.org"
+    ],
+    "website": "https://Rippling.What",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "claire.(she/her)@rippling.what"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "shrm"
+  },
+  {
+    "username": "JohnnyCTaylorJr",
+    "name": "Johnny C. Taylor, Jr., SHRM-SCP",
+    "bio": "Click to Follow JohnnyCTaylorJr",
+    "email": null,
+    "profile_url": "https://twitter.com/JohnnyCTaylorJr",
+    "scraped_at": "2025-10-17T19:00:30.073203",
+    "websites_found": [],
+    "website": null,
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "johnny.taylor@shrm.org"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "shrm"
+  },
+  {
+    "username": "Josh_Bersin",
+    "name": "Josh Bersin",
+    "bio": "Click to Follow Josh_Bersin",
+    "email": null,
+    "profile_url": "https://twitter.com/Josh_Bersin",
+    "scraped_at": "2025-10-17T19:00:33.107384",
+    "websites_found": [
+      "https://t.co/G1NeCLWtok"
+    ],
+    "website": "https://t.co/G1NeCLWtok",
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "josh@joshbersin.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "shrm"
+  },
+  {
+    "username": "TimSackett",
+    "name": "Tim Sackett SCP,SPHR",
+    "bio": "Click to Follow TimSackett",
+    "email": null,
+    "profile_url": "https://twitter.com/TimSackett",
+    "scraped_at": "2025-10-17T19:00:34.880686",
+    "websites_found": [
+      "https://t.co/V1WnWE7daq"
+    ],
+    "website": "https://t.co/V1WnWE7daq",
+    "all_contacts": {
+      "emails": [
+        "hirenow@hrutech.comsocial"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "shrm"
+  },
+  {
+    "username": "memorynguwi",
+    "name": "Memory Nguwi",
+    "bio": "Click to Follow memorynguwi",
+    "email": null,
+    "profile_url": "https://twitter.com/memorynguwi",
+    "scraped_at": "2025-10-17T19:00:36.863596",
+    "websites_found": [
+      "https://t.co/oVKJWb8lp1"
+    ],
+    "website": "https://t.co/oVKJWb8lp1",
+    "all_contacts": {
+      "emails": [
+        "bis@ipcconsultants.comaddress"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "shrm"
+  },
+  {
+    "username": "ImSoSarah",
+    "name": "Sarah",
+    "bio": "Click to Follow ImSoSarah",
+    "email": null,
+    "profile_url": "https://twitter.com/ImSoSarah",
+    "scraped_at": "2025-10-17T19:00:39.304562",
+    "websites_found": [
+      "https://t.co/y9ICGxRjng"
+    ],
+    "website": "https://t.co/y9ICGxRjng",
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "shrm"
+  },
+  {
+    "username": "iosRecruiter",
+    "name": "Deven Narayanan",
+    "bio": "Click to Follow iosRecruiter",
+    "email": null,
+    "profile_url": "https://twitter.com/iosRecruiter",
+    "scraped_at": "2025-10-17T19:02:22.916146",
+    "websites_found": [
+      "https://t.co/qj67qjcMYx"
+    ],
+    "website": "https://t.co/qj67qjcMYx",
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "recruitercom"
+  },
+  {
+    "username": "Dullce7rcj",
+    "name": "Lucille Nelson",
+    "bio": "Click to Follow Dullce7rcj",
+    "email": null,
+    "profile_url": "https://twitter.com/Dullce7rcj",
+    "scraped_at": "2025-10-17T19:02:25.756003",
+    "websites_found": [
+      "http://edurl.us/m2",
+      "https://edurl.us/m2"
+    ],
+    "website": "http://edurl.us/m2",
+    "email_source": "pattern_guessed",
+    "all_contacts": {
+      "emails": [
+        "lucille.nelson@edurl.us"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "recruitercom"
+  },
+  {
+    "username": "bayareawriter",
+    "name": "Mary Ann Azevedo",
+    "bio": "Click to Follow bayareawriter",
+    "email": null,
+    "profile_url": "https://twitter.com/bayareawriter",
+    "scraped_at": "2025-10-17T19:02:27.772881",
+    "websites_found": [
+      "https://t.co/WrUJE75HyR"
+    ],
+    "website": "https://t.co/WrUJE75HyR",
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "maryann@[domain].com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "recruitercom"
+  },
+  {
+    "username": "DavidGeorge83",
+    "name": "David George",
+    "bio": "Click to Follow DavidGeorge83",
+    "email": null,
+    "profile_url": "https://twitter.com/DavidGeorge83",
+    "scraped_at": "2025-10-17T19:02:30.811354",
+    "websites_found": [],
+    "website": null,
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "davidgeorge83@gmail.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "recruitercom"
+  },
+  {
+    "username": "joshk",
+    "name": "Josh Kopelman",
+    "bio": "Click to Follow joshk",
+    "email": null,
+    "profile_url": "https://twitter.com/joshk",
+    "scraped_at": "2025-10-17T19:02:33.118041",
+    "websites_found": [
+      "https://parallel.ai/blog/cookbook-",
+      "https://parallel.ai"
+    ],
+    "website": "https://parallel.ai/blog/cookbook-",
+    "all_contacts": {
+      "emails": [
+        "contacthello@parallel.ai",
+        "hello@parallel.ai"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "recruitercom"
+  },
+  {
+    "username": "Trish_Steed",
+    "name": "Trish Steed",
+    "bio": "Click to Follow Trish_Steed",
+    "email": null,
+    "profile_url": "https://twitter.com/Trish_Steed",
+    "scraped_at": "2025-10-17T19:03:36.196155",
+    "websites_found": [
+      "https://t.co/w01o1HrLwF"
+    ],
+    "website": "https://t.co/w01o1HrLwF",
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrtechnologist"
+  },
+  {
+    "username": "ImSoSarah",
+    "name": "Sarah",
+    "bio": "Click to Follow ImSoSarah",
+    "email": null,
+    "profile_url": "https://twitter.com/ImSoSarah",
+    "scraped_at": "2025-10-17T19:03:37.845441",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrtechnologist"
+  },
+  {
+    "username": "holgermu",
+    "name": "Holger Müller #EnterpriseAcceleration",
+    "bio": "Click to Follow holgermu",
+    "email": null,
+    "profile_url": "https://twitter.com/holgermu",
+    "scraped_at": "2025-10-17T19:03:39.244691",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrtechnologist"
+  },
+  {
+    "username": "sbrownehr",
+    "name": "Steve Browne",
+    "bio": "Click to Follow sbrownehr",
+    "email": null,
+    "profile_url": "https://twitter.com/sbrownehr",
+    "scraped_at": "2025-10-17T19:03:42.274251",
+    "websites_found": [],
+    "website": null,
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "sbrowne@[company].com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrtechnologist"
+  },
+  {
+    "username": "rwang0",
+    "name": "R “Ray” Wang 王瑞光 #Cupertino #AI #Energy R.NFT",
+    "bio": "Click to Follow rwang0",
+    "email": null,
+    "profile_url": "https://twitter.com/rwang0",
+    "scraped_at": "2025-10-17T19:03:44.680247",
+    "websites_found": [],
+    "website": null,
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "rwang0@gmail.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrtechnologist"
+  },
+  {
+    "username": "megbear",
+    "name": "Meg Bear (she/her)",
+    "bio": "Click to Follow megbear",
+    "email": null,
+    "profile_url": "https://twitter.com/megbear",
+    "scraped_at": "2025-10-17T19:03:47.712460",
+    "websites_found": [],
+    "website": null,
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "meg@megbear.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrtechnologist"
+  },
+  {
+    "username": "Madtarquin",
+    "name": "Madeline Laurano",
+    "bio": "Click to Follow Madtarquin",
+    "email": null,
+    "profile_url": "https://twitter.com/Madtarquin",
+    "scraped_at": "2025-10-17T19:03:49.816694",
+    "websites_found": [],
+    "website": null,
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "madeline.laurano@gmail.com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrtechnologist"
+  },
+  {
+    "username": "SBGHRTech",
+    "name": "Steve-G",
+    "bio": "Click to Follow SBGHRTech",
+    "email": null,
+    "profile_url": "https://twitter.com/SBGHRTech",
+    "scraped_at": "2025-10-17T19:03:52.066126",
+    "websites_found": [],
+    "website": null,
+    "all_contacts": {
+      "emails": [],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrtechnologist"
+  },
+  {
+    "username": "havrilla",
+    "name": "Chris Havrilla (she/her)",
+    "bio": "Click to Follow havrilla",
+    "email": null,
+    "profile_url": "https://twitter.com/havrilla",
+    "scraped_at": "2025-10-17T19:03:53.888379",
+    "websites_found": [],
+    "website": null,
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "chavrilla@[company].com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrtechnologist"
+  },
+  {
+    "username": "StaceyHarrisHR",
+    "name": "Stacey Lynn Harris",
+    "bio": "Click to Follow StaceyHarrisHR",
+    "email": null,
+    "profile_url": "https://twitter.com/StaceyHarrisHR",
+    "scraped_at": "2025-10-17T19:03:56.687000",
+    "websites_found": [],
+    "website": null,
+    "email_source": "llm_inferred",
+    "all_contacts": {
+      "emails": [
+        "sharris@[company].com"
+      ],
+      "phones": [],
+      "websites": [],
+      "social_media": {},
+      "contact_indicators": []
+    },
+    "scraped_from": "hrtechnologist"
+  }
+]

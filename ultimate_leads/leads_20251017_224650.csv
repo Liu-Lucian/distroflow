@@ -1,0 +1,41 @@
+﻿username,name,bio,website,websites_found,emails,email_source,email_status,email_confidence,scraped_from
+engadget,Engadget,Click to Follow engadget,https://t.co/XnAXVxyA78,https://t.co/XnAXVxyA78,tips@engadget.com,llm_inferred,,,techcrunch
+PCMag,PCMag,Click to Follow PCMag,https://t.co/GYkBloRfPz,https://t.co/GYkBloRfPz,editorial@pcmag.com,llm_inferred,,,techcrunch
+ycombinator,Y Combinator,Click to Follow ycombinator,https://t.co/sjqjxxBeLc,https://t.co/sjqjxxBeLc,info@ycombinator.com,llm_inferred,,,techcrunch
+ForbesTech,Forbes Tech,Click to Follow ForbesTech,https://t.co/RYx11CDiN8,https://t.co/RYx11CDiN8,tech@forbes.com,llm_inferred,,,techcrunch
+RajanAnandan,Rajan Anandan,Click to Follow RajanAnandan,https://amazon.com,https://amazon.com,rajan.anandan@amazon.com,pattern_guessed,,,techcrunch
+bayareawriter,Mary Ann Azevedo,Click to Follow bayareawriter,https://t.co/WrUJE75HyR,https://t.co/WrUJE75HyR,maryann@[网站域名],llm_inferred,,,techcrunch
+aileenlee,aileenlee,Click to Follow aileenlee,https://t.co/NqGqheN6eu,https://t.co/NqGqheN6eu,"ushello@cowboy.vcfor, inquiries@cowboy.vc",found,,,techcrunch
+joshk,Josh Kopelman,Click to Follow joshk,https://grace.edu,"https://grace.edu, https://parallel.ai/blog/cookbook-, https://parallel.ai","online@grace.edu, studentaffairs@grace.edu, lindsem@grace.edu, enroll@grace.edu, madison.maxwell@grace.edu, owensml@grace.edu, advancement@grace.edu, olivia.targgart@grace.edu, goal@grace.edu, campusstore@grace.edu, president@grace.edu, gtsrec@grace.edu, academics@grace.edu",found,,,techcrunch
+ron_miller,Ron Miller,Click to Follow ron_miller,https://t.co/yOggkkgdcm,https://t.co/yOggkkgdcm,,found,,,techcrunch
+ForbesTechCncl,Forbes Technology Council,Click to Follow ForbesTechCncl,https://t.co/VrqtedKcov,https://t.co/VrqtedKcov,techcouncil@forbes.com,llm_inferred,,,techcrunch
+KyleAlspach,Kyle Alspach,Click to Follow KyleAlspach,https://t.co/9DE8pe9czD,https://t.co/9DE8pe9czD,,found,,,techcrunch
+TheValuesVC,Elliott Robinson,Click to Follow TheValuesVC,https://doppel.com/quiz/real-reco,"https://doppel.com/quiz/real-reco, https://doppel.com",elliott.robinson@doppel.com,pattern_guessed,,,techcrunch
+techinasia,Tech in Asia,Click to Follow techinasia,https://t.co/HLCfkBgwk5,https://t.co/HLCfkBgwk5,hello@techinasia.com,llm_inferred,,,techcrunch
+MarTechSeries,MarTech Series,Click to Follow MarTechSeries,https://t.co/8dWjFUFWQ5,https://t.co/8dWjFUFWQ5,info@martechseries.com,llm_inferred,,,techcrunch
+Haje,Haje,Click to Follow Haje,https://t.co/pOVJmE50EG,https://t.co/pOVJmE50EG,,found,,,techcrunch
+andrewgordonmac,Andrew Macdonald,Click to Follow andrewgordonmac,https://uber.com,"https://uber.com, https://bloomberg.com/news/articles/, https://uberfreight.com/blog/introduci, https://bloomberg.com, https://uberfreight.com",andrew.macdonald@uber.com,pattern_guessed,,,techcrunch
+rebecca_szkutak,Becca Szkutak,Click to Follow rebecca_szkutak,https://inmotionair.com,"https://inmotionair.com, https://marinakmaher.com",craig@inmotionair.com,found,,,techcrunch
+meisenberg,Meagen Eisenberg,Click to Follow meisenberg,https://t.co/YgyPI5UqdY,https://t.co/YgyPI5UqdY,meagen@[company].com,llm_inferred,,,techcrunch
+DavidGeorge83,David George,Click to Follow DavidGeorge83,https://lexus.com,https://lexus.com,david.george@lexus.com,pattern_guessed,,,techcrunch
+LeylaSeka,Leyla D. Seka,Click to Follow LeylaSeka,https://t.co/oXy0HqtfBx,https://t.co/oXy0HqtfBx,,found,,,techcrunch
+tdinh_me,Tony Dinh ,Click to Follow tdinh_me,https://t.co/p4T2vFZoJ1,https://t.co/p4T2vFZoJ1,tony@tdinh.me,llm_inferred,,,producthunt
+rrhoover,Ryan Hoover,Click to Follow rrhoover,,,,found,,,producthunt
+yongfook,Jon Yongfook,Click to Follow yongfook,https://t.co/KoqV5WRAhy,https://t.co/KoqV5WRAhy,jon@yongfook.com,llm_inferred,,,producthunt
+marc_louvion,Marc Lou,Click to Follow marc_louvion,https://t.co/Y30jsaI4oH,https://t.co/Y30jsaI4oH,,found,,,producthunt
+framer,Framer,Click to Follow framer,https://t.co/5CEOYXXcUW,https://t.co/5CEOYXXcUW,hello@framer.com,llm_inferred,,,producthunt
+sveta_bay,Sveta Bay,Click to Follow sveta_bay,https://t.co/MVP6vr0Pcw,https://t.co/MVP6vr0Pcw,,found,,,producthunt
+pbteja1998,Bhanu Teja P,Click to Follow pbteja1998,https://t.co/QbPKIdGqOc,https://t.co/QbPKIdGqOc,"bhanu@sitegpt.ai.we, bhanu@sitegpt.ai, bhanu@sitegpt.ai.ready, content.bhanu@sitegpt.aiconvert",found,,,producthunt
+euboid,Wilson Wilson,Click to Follow euboid,https://t.co/9lkTzMgt6K,https://t.co/9lkTzMgt6K,,found,,,producthunt
+d__raptis,Jim Raptis,Click to Follow d__raptis,https://t.co/hdZZyhbjsk,https://t.co/hdZZyhbjsk,,found,,,producthunt
+ikoichi,Luca Restagno  shipped.club,Click to Follow ikoichi,https://t.co/vN7E8WqBun,https://t.co/vN7E8WqBun,"to@luca.restagno, with@blacktwistapp.an",found,,,producthunt
+dr,Dan Rowden,Click to Follow dr,https://t.co/Srcsnykk8t,https://t.co/Srcsnykk8t,,found,,,producthunt
+_justlilian,Lilian ッ,Click to Follow _justlilian,https://t.co/3L3cVo81x1,https://t.co/3L3cVo81x1,,found,,,producthunt
+5harath,Sharath Kuruganty,Click to Follow 5harath,https://wire.goodfin,"https://wire.goodfin, https://goodfin.com",sharath.kuruganty@wire.goodfin,pattern_guessed,,,producthunt
+nico_jeannen,Nico,Click to Follow nico_jeannen,https://t.co/s2aN2W9XNS,https://t.co/s2aN2W9XNS,,found,,,producthunt
+nocodelife,Kieran  Building apps with AI + nocode ,Click to Follow nocodelife,https://t.co/TDh2Gyvdtv,https://t.co/TDh2Gyvdtv,,found,,,producthunt
+ThePeterMick,Peter Mick,Click to Follow ThePeterMick,https://t.co/HI1JSwFdqu,https://t.co/HI1JSwFdqu,,found,,,producthunt
+noahwbragg,Noah Bragg ,Click to Follow noahwbragg,https://t.co/yyLfH8mOar,https://t.co/yyLfH8mOar,,found,,,producthunt
+remotejoeclark,Remote Joe,Click to Follow remotejoeclark,https://t.co/gEABNyt1NU,https://t.co/gEABNyt1NU,,found,,,producthunt
+JJEnglert,JJ Englert,Click to Follow JJEnglert,https://youtube.com,"https://youtube.com, https://makeamericafentanylfree.com, https://myinsiderpass.com, https://myinsiderpass.com/blog/what-is-m",,found,,,producthunt
+joinbento,Bento,Click to Follow joinbento,,,contact@joinbento.com,llm_inferred,,,producthunt

@@ -1,0 +1,57 @@
+{
+  "generated_at": "2025-10-23T14:08:53.370396",
+  "month": "2025-10",
+  "posts": [
+    {
+      "type": "Ask HN",
+      "scheduled_date": "2025-10-01",
+      "scheduled_time": "14:09",
+      "post_data": {
+        "title": "Ask HN: SSE vs WebSockets for real-time AI response streaming?",
+        "text": "Hey HN! I'm building an interview assistant that streams AI responses in real-time (think interview feedback/suggestions while the conversation is happening). Currently hitting some interesting technical challenges around latency vs connection management.\n\nCurrent setup using SSE:\n- ~800ms first-byte latency\n- ~15k concurrent users at peak\n- Running on AWS ECS with ALB\n- ~2MB average payload size (broken into 1KB chunks)\n- Connection drops ~2% of the time (mostly mobile)\n\nTbh, I'm torn between sticking with SSE (simpler, works through proxies) vs switching to WebSockets (better reconnection handling, bi-directional). We need to stream both audio transcription -> server and AI responses -> client. SSE means two connections per client which feels... not great?\n\nAnyone here running similar AI streaming at scale? Would love to hear about your experience with connection stability and reconnection handling. Also curious about memory usage - we're seeing about 30MB per connection with SSE which seems high?\n\nImo the real challenge isn't just technical - it's balancing user experience (instant responses) with server resources. Also, ngl, debugging streaming issues in prod is... fun 😅"
+      },
+      "posted": false
+    },
+    {
+      "type": "Show HN",
+      "scheduled_date": "2025-10-02",
+      "scheduled_time": "09:41",
+      "post_data": {
+        "title": "Show HN: Real-time AI interview coach (sub-1s latency was... interesting)",
+        "url": "https://hiremeai.com",
+        "text": "Been hacking on this for ~4 months after bombing way too many tech interviews lol. It's an AI interview assistant that listens to interviewer questions and generates answers in real-time using GPT-4 + Azure Speech + ChromaDB.\n\nThe latency was honestly a nightmare at first (2.7s first-byte response, totally unusable). Ended up building a dual-level cache architecture with memory + disk persistence, and got it down to ~1s. Also implemented speaker recognition with Picovoice Eagle to avoid the AI responding to the candidate's own voice (learned this the hard way when it kept trying to answer my answers 😅).\n\nTech stack: Python backend (FastAPI), React frontend, Azure Speech Services for STT, ChromaDB for vector similarity matching (way better results than basic keyword matching tbh), and Picovoice Eagle for speaker recognition. Used Server-Sent Events for streaming responses - considered WebSockets but SSE worked better for our one-way streaming needs.\n\nStill rough around the edges but would love feedback from fellow HNers, especially on the caching architecture and speech processing pipeline. Source code isn't public yet but happy to share more technical details if anyone's interested. Been super fun to build ngl."
+      },
+      "posted": false
+    },
+    {
+      "type": "Ask HN",
+      "scheduled_date": "2025-10-08",
+      "scheduled_time": "10:52",
+      "post_data": {
+        "title": "Ask HN: How are you handling speaker diarization in production? Our accuracy is... rough",
+        "text": "I'm building an interview assistant (real-time transcription + AI feedback) and tbh speaker diarization is kicking my butt rn.\n\nCurrent stack:\n- Pyannote (fine-tuned on our data)\n- WebRTC for audio capture\n- Custom VAD to segment speech\n\nWe're seeing ~78% accuracy in lab tests but only 65-70% in production (oof). Main issues:\n- Cross-talk detection is terrible (like 40% accurate lol)\n- 2-3s latency for speaker switches\n- Lots of false positives when background noise > -20dB\n\nWe've tried:\n- Whisper's VAD (better accuracy but 4s+ latency)\n- Azure's speaker recognition ($$$ at scale)\n- Google's speaker diarization (good but not real-time)\n\nngl I'm starting to think perfect diarization might be impossible in real-time. Anyone gotten this working reliably in prod? What accuracy numbers are you seeing?\n\nExtra context: We need sub-2s latency for real-time use, and ideally 90%+ accuracy. Currently processing 16kHz mono audio in 500ms chunks. Running on CPU because GPU costs at scale are scary."
+      },
+      "posted": false
+    },
+    {
+      "type": "Ask HN",
+      "scheduled_date": "2025-10-15",
+      "scheduled_time": "09:35",
+      "post_data": {
+        "title": "Ask HN: How are you handling real-time AI streaming latency at scale?",
+        "text": "Hey folks, I'm building an interview assistant that needs to process speech and generate AI responses in real-time. Tbh, keeping latency consistently under 800ms is kicking my butt lol.\n\nCurrent setup:\n- Whisper (fine-tuned) for ASR streaming\n- GPT-4 with response streaming\n- Redis for hot cache\n- Custom token chunking\n- Running on AWS with regional optimization\n\nWe're seeing ~1.2s first-token latency and ~3.5s total response time for 150-token outputs. Managed to shave off 400ms by parallel processing the ASR buffer and running early inference, but still not where I want it. Cache hits are great (~50ms) but only work for ~40% of responses.\n\nAnyone achieved sub-800ms first-token consistently at scale? Really curious about:\n- Token streaming optimization patterns\n- ASR buffering strategies (currently using 500ms chunks)\n- Whether running inference on edge helps enough to justify the complexity\n- Handling concurrent streams without CPU bottlenecks\n\nNgl, watching those streaming dots for >1s feels rough in a conversation context. Would love to hear what's working for others, especially at 100+ concurrent users."
+      },
+      "posted": false
+    },
+    {
+      "type": "Ask HN",
+      "scheduled_date": "2025-10-22",
+      "scheduled_time": "16:24",
+      "post_data": {
+        "title": "Ask HN: How are you handling GPT API cost optimization with caching?",
+        "text": "I'm building an interview practice tool (real-time feedback during mock interviews) and ngl, our GPT-4 costs are getting wild - like $0.15 per minute of conversation wild lol.\n\nCurrent approach:\n- Semantic caching with embeddings (using pgvector)\n- 78% cache hit rate on common feedback patterns\n- ~$0.06/min after caching\n- Using cosine similarity threshold of 0.92\n\nBut tbh I'm struggling with some edge cases. When the context is slightly different (like same feedback point but different industry), the cache hits are producing responses that feel... off. Lowering the similarity threshold helps costs but tanks quality.\n\nImo there's gotta be a better way? Would love to hear from others who've solved this, especially around:\n- Handling context-dependent caching\n- Cache invalidation strategies (our cache gets stale fast)\n- Similarity threshold sweet spots\n- Hybrid approaches (maybe caching partial completions?)\n\nAlso curious if anyone's tried fine-tuning smaller models on their cached responses? The cost savings could be huge but not sure if the quality trade-off is worth it."
+      },
+      "posted": false
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿username,name,bio,website,websites_found,emails,email_source,email_status,email_confidence,scraped_from
+engadget,Engadget,Click to Follow engadget,https://t.co/XnAXVxyA78,https://t.co/XnAXVxyA78,tips@engadget.com,llm_inferred,,,techcrunch
+PCMag,PCMag,Click to Follow PCMag,https://t.co/GYkBloRfPz,https://t.co/GYkBloRfPz,tips@pcmag.com,llm_inferred,,,techcrunch
+ycombinator,Y Combinator,Click to Follow ycombinator,https://t.co/sjqjxxBeLc,https://t.co/sjqjxxBeLc,info@ycombinator.com,llm_inferred,,,techcrunch
+ForbesTech,Forbes Tech,Click to Follow ForbesTech,https://t.co/RYx11CDiN8,https://t.co/RYx11CDiN8,tech@forbes.com,llm_inferred,,,techcrunch
+RajanAnandan,Rajan Anandan,Click to Follow RajanAnandan,https://amazon.com,https://amazon.com,rajan.anandan@amazon.com,pattern_guessed,,,techcrunch
+bayareawriter,Mary Ann Azevedo,Click to Follow bayareawriter,https://t.co/WrUJE75HyR,https://t.co/WrUJE75HyR,maryann@[website_domain],llm_inferred,,,techcrunch

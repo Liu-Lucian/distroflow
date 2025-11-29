@@ -1,0 +1,51 @@
+{
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "username": "your-email@gmail.com",
+    "password": "your-app-password",
+    "from_name": "Your Company Name",
+    "from_email": "your-email@gmail.com"
+  },
+
+  "campaign": {
+    "product_name": "TaskFlow AI",
+    "product_url": "https://your-product.com",
+    "company_name": "Your Company",
+    "support_email": "support@your-company.com"
+  },
+
+  "promo_codes": {
+    "initial": {
+      "code": "WELCOME20",
+      "discount": "20%",
+      "valid_days": 7
+    },
+    "followup": {
+      "code": "LASTCHANCE30",
+      "discount": "30%",
+      "valid_days": 3
+    }
+  },
+
+  "timing": {
+    "initial_delay_minutes": 5,
+    "followup_delay_hours": 24,
+    "max_followups": 2,
+    "send_delay_min_seconds": 30,
+    "send_delay_max_seconds": 90,
+    "followup_send_delay_min_seconds": 45,
+    "followup_send_delay_max_seconds": 120
+  },
+
+  "tracking": {
+    "webhook_url": "",
+    "database_file": "campaign_tracking.db"
+  },
+
+  "test_mode": {
+    "enabled": true,
+    "test_email": "liu.lucian6@gmail.com",
+    "send_to_test_only": true
+  }
+}

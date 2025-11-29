@@ -1,0 +1,41 @@
+﻿username,name,bio,website,websites_found,emails,email_source,scraped_from
+engadget,Engadget,Click to Follow engadget,https://t.co/XnAXVxyA78,https://t.co/XnAXVxyA78,tips@engadget.com,llm_inferred,techcrunch
+PCMag,PCMag,Click to Follow PCMag,https://pcmag.com,https://pcmag.com,contact@pcmag.com,llm_inferred,techcrunch
+ycombinator,Y Combinator,Click to Follow ycombinator,https://t.co/sjqjxxBeLc,https://t.co/sjqjxxBeLc,y.combinator@t.co,pattern_guessed,techcrunch
+ForbesTech,Forbes Tech,Click to Follow ForbesTech,https://forbes.com/sites/davidjea,"https://forbes.com/sites/davidjea, https://forbes.com/sites/thomasbr, https://forbes.com, https://go.forbes",forbes.tech@forbes.com,pattern_guessed,techcrunch
+RajanAnandan,Rajan Anandan,Click to Follow RajanAnandan,,,,found,techcrunch
+bayareawriter,Mary Ann Azevedo,Click to Follow bayareawriter,https://news.crunchbase,"https://news.crunchbase, https://crunchbase.com",mary.azevedo@news.crunchbase,pattern_guessed,techcrunch
+aileenlee,aileenlee,Click to Follow aileenlee,https://t.co/NqGqheN6eu,https://t.co/NqGqheN6eu,"ushello@cowboy.vcfor, inquiries@cowboy.vc",found,techcrunch
+joshk,Josh Kopelman,Click to Follow joshk,https://makeamericafentanylfree.com,"https://makeamericafentanylfree.com, https://parallel.ai/blog/cookbook-, https://parallel.ai","contacthello@parallel.ai, hello@parallel.ai",found,techcrunch
+ron_miller,Ron Miller,Click to Follow ron_miller,https://ron_miller@noc.social,"https://ron_miller@noc.social, https://noc.social, https://linkedin.com/in/ronsmiller/, https://techcrunch.com, https://theintercept.com/2022/12/15/jou, https://tcrn.ch/3BHiHkC, https://cnbc.com, https://cnb.cx/3FUdIQ1, https://cnet.co/3hwCufR, https://linkedin.com, https://theintercept.com, https://cnet.co",ron.miller@ron_miller@noc.social,pattern_guessed,techcrunch
+ForbesTechCncl,Forbes Technology Council,Click to Follow ForbesTechCncl,https://hubs.li/Q03NQqVC0,"https://hubs.li/Q03NQqVC0, https://hubs.li/Q03NQpzV0, https://hubs.li/Q03NQpL10, https://hubs.li/Q03NQnGY0, https://hubs.li/Q03NQqRY0, https://hubs.li/Q03NQnld0, https://hubs.li/Q03NQnjs0, https://hubs.li/Q03NQpy10",forbes.council@hubs.li,pattern_guessed,techcrunch
+KyleAlspach,Kyle Alspach,Click to Follow KyleAlspach,https://crn.com,"https://crn.com, https://okt.to/DNJLhd",kyle.alspach@crn.com,pattern_guessed,techcrunch
+TheValuesVC,Elliott Robinson,Click to Follow TheValuesVC,https://doppel.com/quiz/real-reco,"https://doppel.com/quiz/real-reco, https://doppel.com",elliott.robinson@doppel.com,pattern_guessed,techcrunch
+techinasia,Tech in Asia,Click to Follow techinasia,https://bit.ly/3KIBN1o,"https://bit.ly/3KIBN1o, https://buff.ly/aVGTFL4, https://conference.techinasia, https://buff.ly/6rUeuXG, https://techinasia.com, https://buff.ly/Rshn1BB","datacenter@pobox.com, info@trendzwebsolution.com, sales@trendzwebsolution.com, sales@1800datacenter.com, alim@trendzwebsolution.com, dominic@trendzwebsolution.com",found,techcrunch
+MarTechSeries,MarTech Series,Click to Follow MarTechSeries,https://ow.ly/HigT50Xcpfg,"https://ow.ly/HigT50Xcpfg, https://martechseries.com, https://ow.ly/PW5k50XcpbU, https://ow.ly/iEcT50Xcp9H, https://ow.ly/cA5050Xcp5A, https://ow.ly/OUSj50Xcp4C, https://ow.ly/zRoz50Xcp3k, https://ow.ly/ioJN50Xcvb1",info@lochness.com,found,techcrunch
+Haje,Haje,Click to Follow Haje,https://observer.com,https://observer.com,"bill.mooney@politickernj.com, editor@politickernj.com, charles.bittermann@politickernj.com, mark.bonamo@politickernj.com, matt.arco@politickernj.com, max.pizarro@politickernj.com",found,techcrunch
+andrewgordonmac,Andrew Macdonald,Click to Follow andrewgordonmac,https://bloomberg.com/news/articles/2025-09-18/uber-gets-back-into-drone-delivery-with-flytrex-investment?taid=68cbf6ac292cd3000129aaee&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter…74142.2K,"https://bloomberg.com/news/articles/2025-09-18/uber-gets-back-into-drone-delivery-with-flytrex-investment?taid=68cbf6ac292cd3000129aaee&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter…74142.2K, https://uber.com, https://bloomberg.com",andrew.macdonald@bloomberg.com,pattern_guessed,techcrunch
+rebecca_szkutak,Becca Szkutak,Click to Follow rebecca_szkutak,https://marinakmaher.com,https://marinakmaher.com,becca.szkutak@marinakmaher.com,pattern_guessed,techcrunch
+meisenberg,Meagen Eisenberg,Click to Follow meisenberg,https://trucknews.com,https://trucknews.com,meagen.eisenberg@trucknews.com,pattern_guessed,techcrunch
+DavidGeorge83,David George,Click to Follow DavidGeorge83,,,,found,techcrunch
+LeylaSeka,Leyla D. Seka,Click to Follow LeylaSeka,https://t.co/oXy0HqtfBx,https://t.co/oXy0HqtfBx,leyla.seka@t.co,pattern_guessed,techcrunch
+tdinh_me,Tony Dinh ,Click to Follow tdinh_me,https://t.co/p4T2vFZoJ1,https://t.co/p4T2vFZoJ1,tony.dinh@t.co,pattern_guessed,producthunt
+rrhoover,Ryan Hoover,Click to Follow rrhoover,,,,found,producthunt
+yongfook,Jon Yongfook,Click to Follow yongfook,https://t.co/KoqV5WRAhy,https://t.co/KoqV5WRAhy,jon.yongfook@t.co,pattern_guessed,producthunt
+marc_louvion,Marc Lou,Click to Follow marc_louvion,https://t.co/Y30jsaI4oH,https://t.co/Y30jsaI4oH,marc.lou@t.co,pattern_guessed,producthunt
+framer,Framer,Click to Follow framer,https://framer.link/vectors-market,"https://framer.link/vectors-market, https://framer.link",,found,producthunt
+sveta_bay,Sveta Bay,Click to Follow sveta_bay,https://docs.google,"https://docs.google, https://google.com",press@google.com,found,producthunt
+pbteja1998,Bhanu Teja P,Click to Follow pbteja1998,https://SiteGPT.ai,"https://SiteGPT.ai, https://sitegpt.ai/docs/changelog, https://sitegpt.ai/docs, https://sitegpt.ai","bhanu@sitegpt.ai.ready, content.bhanu@sitegpt.aiconvert, bhanu@sitegpt.ai.we, bhanu@sitegpt.ai",found,producthunt
+euboid,Wilson Wilson,Click to Follow euboid,https://t.co/9lkTzMgt6K,https://t.co/9lkTzMgt6K,wilson.wilson@t.co,pattern_guessed,producthunt
+d__raptis,Jim Raptis,Click to Follow d__raptis,https://t.co/hdZZyhbjsk,https://t.co/hdZZyhbjsk,jim.raptis@t.co,pattern_guessed,producthunt
+ikoichi,Luca Restagno  shipped.club,Click to Follow ikoichi,,,luca@shipped.club,llm_inferred,producthunt
+dr,Dan Rowden,Click to Follow dr,,,,found,producthunt
+_justlilian,Lilian ッ,Click to Follow _justlilian,,,,found,producthunt
+5harath,Sharath Kuruganty,Click to Follow 5harath,,,,found,producthunt
+nico_jeannen,Nico,Click to Follow nico_jeannen,,,,found,producthunt
+nocodelife,Kieran  Building apps with AI + nocode ,Click to Follow nocodelife,,,,found,producthunt
+ThePeterMick,Peter Mick,Click to Follow ThePeterMick,,,,found,producthunt
+noahwbragg,Noah Bragg ,Click to Follow noahwbragg,,,,found,producthunt
+remotejoeclark,Remote Joe,Click to Follow remotejoeclark,,,,found,producthunt
+JJEnglert,JJ Englert,Click to Follow JJEnglert,,,,found,producthunt
+joinbento,Bento,Click to Follow joinbento,,,,found,producthunt

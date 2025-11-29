@@ -1,0 +1,45 @@
+{
+  "generated_at": "2025-10-26T20:15:43.015055",
+  "date": "2025-10-26",
+  "schedule": [
+    {
+      "time_slot": "09:00-11:00",
+      "scheduled_time": "10:40",
+      "story": {
+        "id": "45715204",
+        "title": "We Saved $500k per Year by Rolling Our Own \"S3\"",
+        "url": "https://news.ycombinator.com/item?id=45715204",
+        "points": 60,
+        "comments": 35
+      },
+      "comment": "Having gone through S3 cost optimization ourselves, I want to share some important nuances around this approach. While the raw storage costs can look attractive, there are hidden operational costs to consider:\n\nWe found that implementing proper data durability (3+ replicas, corruption detection, automatic repair) added ~40% overhead to our initial estimates. The engineering time spent building and maintaining custom tooling for multi-region replication, access controls, and monitoring ended up being substantial - about 1.5 FTE over 18 months.\n\nFor high-throughput workloads (>500 req/s), we actually saw better cost efficiency with S3 due to their economies of scale on bandwidth. The breakeven point seems to be around 100-200TB of relatively static data with predictable access patterns. Below that, the operational overhead of running your own storage likely exceeds S3's markup.\n\nThe key is to be really honest about your use case. Are you truly at scale? Do you have the engineering resources to build AND maintain this long-term? Sometimes paying the AWS premium is worth it for the operational simplicity.",
+      "posted": true
+    },
+    {
+      "time_slot": "14:00-16:00",
+      "scheduled_time": "15:32",
+      "story": {
+        "id": "45652218",
+        "title": "NORAD’s Cheyenne Mountain Combat Center, c.1966",
+        "url": "https://news.ycombinator.com/item?id=45652218",
+        "points": 91,
+        "comments": 45
+      },
+      "comment": "The redundancy systems in Cheyenne Mountain are fascinating from a modern distributed systems perspective. When designing our real-time services, we often struggle with 4-9s uptime, yet NORAD achieved remarkable reliability with 1960s technology. Their approach of physical isolation combined with multiple independent power/cooling/compute systems is still relevant today.\n\nOne detail that caught my attention: they used triple-redundant IBM 7090 mainframes with real-time voting between systems. This is surprisingly similar to modern consensus protocols like Raft, just implemented in hardware. Makes me wonder if we've over-complicated things with software-based consensus when simple majority voting could suffice for many use cases. The key seems to be truly independent failure domains - something NORAD achieved through physical separation that's harder to replicate in cloud environments.\n\nWould love to hear from others who've implemented hardware-based consensus systems. How do they compare to software solutions in terms of reliability and complexity?",
+      "posted": true
+    },
+    {
+      "time_slot": "19:00-21:00",
+      "scheduled_time": "19:49",
+      "story": {
+        "id": "45715752",
+        "title": "Show HN: Helium Browser for Android with extensions support, based on Vanadium",
+        "url": "https://news.ycombinator.com/item?id=45715752",
+        "points": 30,
+        "comments": 10
+      },
+      "comment": "I've been digging into Vanadium's extension support implementation and this looks like a solid approach for Android. The key challenge we faced with WebExtensions on mobile was the memory footprint - each extension runs in its own process which can add 30-50MB of overhead per extension on resource-constrained devices. \n\nCurious how you're handling the isolation/sandboxing model here? The standard Chrome approach of site isolation + process-per-extension becomes pretty heavy on mobile. Have you considered using a shared process model with context isolation instead? We found that careful use of V8 contexts could give similar security guarantees with ~70% less memory overhead, though it required some tricky IPC handling between the extensions and main browser process.\n\nAlso worth noting that the WebExtension manifest v3 transition adds some extra complexity for mobile browsers - particularly around the service worker lifecycle and background page limitations. Would love to hear how you're approaching that migration path.",
+      "posted": true
+    }
+  ]
+}

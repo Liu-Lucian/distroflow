@@ -1,0 +1,45 @@
+{
+  "generated_at": "2025-10-27T20:00:09.937618",
+  "date": "2025-10-27",
+  "schedule": [
+    {
+      "time_slot": "09:00-11:00",
+      "scheduled_time": "09:47",
+      "story": {
+        "id": "45718711",
+        "title": "The last European train that travels by sea",
+        "url": "https://news.ycombinator.com/item?id=45718711",
+        "points": 147,
+        "comments": 137
+      },
+      "comment": "The train-ferry system reminds me of some fascinating technical challenges we encountered when building cross-border latency-sensitive systems. When dealing with undersea fiber routes between Europe and Asia, we discovered that the physical path constraints (like the train having to navigate specific sea routes) heavily impact network topology and redundancy options.\n\nFor example, the Baltic Sea crossings often see latency spikes of 50-80ms during storms due to fiber movement, similar to how these train-ferries have to adjust their routes based on weather. We ended up implementing a dynamic routing system that maintains multiple paths through different undersea cables, automatically failing over when latency exceeds 2x baseline. The key was building in enough \"slack\" in the timing assumptions - much like how these train-ferries need schedule buffers for loading/unloading operations.\n\nAnyone here worked with similar physical-digital hybrid systems where geographic constraints force interesting technical tradeoffs? Curious about other approaches to handling location-dependent service reliability.",
+      "posted": true
+    },
+    {
+      "time_slot": "14:00-16:00",
+      "scheduled_time": "14:56",
+      "story": {
+        "id": "45723686",
+        "title": "The new calculus of AI-based coding",
+        "url": "https://news.ycombinator.com/item?id=45723686",
+        "points": 73,
+        "comments": 64
+      },
+      "comment": "The calculus really shifts when you consider token windows vs traditional cost metrics. We initially modeled our interview feedback system assuming linear scaling with prompt size, but discovered the relationship is more nuanced. Larger context windows (32k+ tokens) actually reduced our per-interview costs by allowing more efficient batching and fewer API calls, even though the raw token count was higher.\n\nOne critical learning: token optimization needs to happen at the architectural level, not just prompt engineering. We moved from sending full interview transcripts to maintaining a sliding contextual summary (roughly 2-3k tokens) plus targeted snippets of the most relevant exchanges. This cut our token usage by ~65% while maintaining accuracy above 92% on our evaluation benchmarks.\n\nThe trickiest part was handling real-time updates without losing coherence. Anyone else running into challenges with maintaining consistent context when streaming partial results? We're considering implementing a hierarchical attention mechanism but worried about the latency impact.",
+      "posted": true
+    },
+    {
+      "time_slot": "19:00-21:00",
+      "scheduled_time": "20:58",
+      "story": {
+        "id": "45727664",
+        "title": "AI can code, but it can't build software",
+        "url": "https://news.ycombinator.com/item?id=45727664",
+        "points": 132,
+        "comments": 90
+      },
+      "comment": "The key distinction I've found is between \"code generation\" and \"software evolution\". While LLMs excel at producing isolated code snippets, they struggle with the iterative nature of software development - especially around testing and maintainability.\n\nWhen building our interview feedback system, we initially tried using GPT-4 to generate entire feature implementations. While it could produce working code (~80% accuracy for isolated functions), maintaining and evolving that code became a nightmare. The generated code lacked proper error handling, had poor test coverage, and made architectural assumptions that didn't align with our existing patterns.\n\nWe had much better results using AI as a \"pair programmer\" - generating small, focused snippets (~10-30 LOC) that we could properly review and integrate. This hybrid approach reduced our feature development time by ~40% while maintaining code quality. The key was keeping the AI-generated units small enough that we could fully understand and validate them.\n\nThe hardest part wasn't getting working code - it was building maintainable software that could evolve with changing requirements. Things like proper error boundaries, idempotency, and backwards compatibility required significant human oversight.",
+      "posted": true
+    }
+  ]
+}

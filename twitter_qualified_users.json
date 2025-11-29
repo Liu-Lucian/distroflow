@@ -1,0 +1,720 @@
+[
+  {
+    "username": "InterviewsChat",
+    "intent_score": 0.6,
+    "reasons": [
+      "Expresses disappointment with current resources for interview preparation",
+      "Mentions the need for effective career advice"
+    ],
+    "pain_points": [
+      "Ineffective resources for resume building and interview preparation",
+      "Lack of personalized feedback in current solutions"
+    ],
+    "priority": "high",
+    "text": "Oh no, that's super disappointing and definitely not what you should expect for that price . It's a good reminder that sometimes doing your own research and utilizing free resources for resume building and career advice can actually be more effective.",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/InterviewsChat/status/1980775710261154202",
+    "found_date": "2025-10-21T17:07:45.138137",
+    "sent_dm": false
+  },
+  {
+    "username": "Jay",
+    "intent_score": 0.7,
+    "reasons": [
+      "Expressed interest in breaking into tech, indicating a need for interview preparation.",
+      "Mentioned resources for landing a tech job, suggesting a proactive approach to career development."
+    ],
+    "pain_points": [
+      "Lack of knowledge on how to prepare for technical interviews.",
+      "Need for guidance and resources to successfully transition into the tech industry."
+    ],
+    "priority": "high",
+    "text": "Want to break into tech? Join 1000+ people getting resume tips, courses, and resources to help you land your first tech job.\n\nSubscribe for FREE here:",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/JuwonTheTechie/status/1980726302979055929",
+    "found_date": "2025-10-21T17:15:21.833293",
+    "sent_dm": false
+  },
+  {
+    "username": "Miracle",
+    "intent_score": 0.6,
+    "reasons": [
+      "Shows a deep understanding of technical topics related to performance optimization.",
+      "Engages in discussions that require technical knowledge, indicating a potential need for interview preparation."
+    ],
+    "pain_points": [
+      "May struggle with technical interviews if not adequately prepared.",
+      "Needs to articulate complex concepts clearly during interviews."
+    ],
+    "priority": "high",
+    "text": "When optimizing your Astro app for performance, it's important to understand the trade-offs between using client:visible and client:load. While client:visible can significantly impact performance, it may also affect user experience.",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/miraclejudeiv/status/1980765242909970651",
+    "found_date": "2025-10-21T19:13:13.400016",
+    "sent_dm": false
+  },
+  {
+    "username": "Grok",
+    "intent_score": 0.6,
+    "reasons": [
+      "Engaged in discussions about job applications and interview processes.",
+      "Provided feedback on resumes and interview preparation."
+    ],
+    "pain_points": [
+      "Need for effective interview preparation.",
+      "Desire for personalized feedback to improve interview chances."
+    ],
+    "priority": "high",
+    "text": "xAI reviews all applications directly by our technical team—no recruiters involved. Chances of an interview depend on your skills and exceptional work statement matching our needs. We don't have a Savannah facility, but we do have one in Memphis, TN. We're hiring in Palo Alto, SF, and more. Apply at \nhttp://\nx.ai/careers with your CV. Willingness to travel is a plus!",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/grok/status/1980726871915655332",
+    "found_date": "2025-10-21T19:13:13.400105",
+    "sent_dm": false
+  },
+  {
+    "username": "Felix The GenZ HR",
+    "intent_score": 0.7,
+    "reasons": [
+      "User is discussing job application resources which indicates interest in interview preparation.",
+      "User provides a comprehensive toolkit for job seekers, suggesting they are engaged in the hiring process."
+    ],
+    "pain_points": [
+      "Need for effective interview preparation tools.",
+      "Challenges in optimizing job applications and interviews."
+    ],
+    "priority": "high",
+    "found_date": "2025-10-21T20:23:37.209657",
+    "sent_dm": false
+  },
+  {
+    "username": "Humor_GUY",
+    "intent_score": 0.8,
+    "reasons": [
+      "Requested recommendations for books and courses related to software engineering and data science.",
+      "Engaged in discussions about preparing for high-paying technical roles."
+    ],
+    "pain_points": [
+      "Need for effective preparation resources for technical interviews.",
+      "Desire to improve skills for competitive job roles."
+    ],
+    "priority": "high",
+    "text": "There you go \n@Hunteracoles\n & thank me later. Since you got the higher IQ and no H1Bs left it wi be easy for you to get those $200k comp roles. Good luck",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/AskPerplexity/status/1980819100155662802",
+    "found_date": "2025-10-21T20:41:22.324751",
+    "sent_dm": false
+  },
+  {
+    "username": "Hunteracoles",
+    "intent_score": 0.6,
+    "reasons": [
+      "Mentioned interest in preparing for high-paying roles.",
+      "Engaged in discussions about qualifications and job roles."
+    ],
+    "pain_points": [
+      "Need for guidance on preparing for technical interviews.",
+      "Concern about job market competitiveness."
+    ],
+    "priority": "medium",
+    "found_date": "2025-10-21T20:41:22.324764",
+    "sent_dm": false
+  },
+  {
+    "username": "Ask Perplexity",
+    "intent_score": 0.7,
+    "reasons": [
+      "Discusses the need for hands-on practice and preparation for developer interviews.",
+      "Mentions specific areas of focus for interview preparation."
+    ],
+    "pain_points": [
+      "Lack of comprehensive preparation resources for developer interviews.",
+      "Need for practical problem-solving skills."
+    ],
+    "priority": "high",
+    "text": "Short answer: CTCI is great for DS&A, but it’s not sufficient by itself for most developer interviews—even at startups. \n\nYou’ll also want hands-on practice (LeetCode-style problems), at least basic system design (for backend/full‑stack roles), solid behavioral stories, and",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/john47assassin/status/1980798385801363775",
+    "found_date": "2025-10-21T20:41:22.324767",
+    "sent_dm": false
+  },
+  {
+    "username": "Jonathan John",
+    "intent_score": 0.5,
+    "reasons": [
+      "Inquires about preparation strategies for SDE interviews in big tech.",
+      "Shows concern about the adequacy of current preparation methods."
+    ],
+    "pain_points": [
+      "Uncertainty about the effectiveness of current preparation for technical interviews.",
+      "Need for additional resources to enhance interview readiness."
+    ],
+    "priority": "medium",
+    "text": "In olden days, people used to write on Tablets. Then they wrote on Scrolls. Then they wrote on books. Now we Scroll a Book on a Tablet.",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/john47assassin/status/1980798385801363775",
+    "found_date": "2025-10-21T20:41:22.324769",
+    "sent_dm": false
+  },
+  {
+    "username": "Vinay Kumar Porandla",
+    "intent_score": 0.8,
+    "reasons": [
+      "User is committed to a coding challenge, indicating a desire to improve skills.",
+      "User is actively sharing progress, suggesting engagement with the learning process."
+    ],
+    "pain_points": [
+      "Need for structured preparation for technical interviews.",
+      "Desire for personalized feedback to improve coding skills."
+    ],
+    "priority": "high",
+    "text": " I’m taking on a challenge!\n\nStarting today, I’m committing to 70 days of coding before the end of 2025.\nMy goal: build discipline, consistency, and level up my skills.\nI’ll be giving 100% every day and sharing my progress here. \n\n#CodingChallenge #100DaysOfCode #Consistency",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/vinay_dev19/status/1980756503515787635",
+    "found_date": "2025-10-21T20:41:22.324773",
+    "sent_dm": false
+  },
+  {
+    "username": "Ravi Gupta",
+    "intent_score": 0.6,
+    "reasons": [
+      "Expresses interest in personal growth and career development",
+      "Mentions managing a transition from a stable job to entrepreneurship"
+    ],
+    "pain_points": [
+      "Fear of uncertainty in career transitions",
+      "Need for preparation and support in new ventures"
+    ],
+    "priority": "high",
+    "found_date": "2025-10-21T21:04:21.950174",
+    "sent_dm": false
+  },
+  {
+    "username": "Dawid Dahl",
+    "intent_score": 0.8,
+    "reasons": [
+      "Senior engineer managing hiring indicates decision-making authority.",
+      "Expresses concern over programming competence, suggesting a need for improvement."
+    ],
+    "pain_points": [
+      "Lack of preparation for technical interviews.",
+      "Low competence in programming skills."
+    ],
+    "priority": "high",
+    "text": "As a senior engineer managing hiring at my company, if you came in to an interview with this attitude and this low level of competence, you would never even be considered for the position.\n\nBtw, to learn what FP actually is, you have this free resource:",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/DawidDahl/status/1980726521019908487",
+    "found_date": "2025-10-21T21:16:28.632208",
+    "sent_dm": false
+  },
+  {
+    "username": "Mohamed elsaid",
+    "intent_score": 0.6,
+    "reasons": [
+      "Discussion about team communication and project management indicates a focus on improving team performance.",
+      "Interest in maintaining a common language suggests a need for effective communication tools."
+    ],
+    "pain_points": [
+      "Difficulty in maintaining communication within the team.",
+      "Challenges in project management and collaboration."
+    ],
+    "priority": "medium",
+    "text": "اهميه ان يكون ما بين ال Team الي شغال موضوع ال Ubiquitous language .... السؤال باه لما الدنيا تسرح في ال project ازاي نحافظ علي اللغه المشتركه دي ؟",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/Mohamedcivilgeo/status/1980682047879311568",
+    "found_date": "2025-10-21T21:16:28.632226",
+    "sent_dm": false
+  },
+  {
+    "username": "Josef Hobler",
+    "intent_score": 0.6,
+    "reasons": [
+      "Discussing the need for clarity in technical specifications indicates an understanding of interview processes.",
+      "The comment suggests a focus on evaluating candidates, which aligns with interview preparation."
+    ],
+    "pain_points": [
+      "Difficulty in assessing candidate skills based on vague specifications.",
+      "Need for effective evaluation methods during technical interviews."
+    ],
+    "priority": "high",
+    "text": "Give them a vague spec, for example \"build a notification system\" and see if they ask clarifying questions or just sit there.",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/crod_ai/status/1980644557818900831",
+    "found_date": "2025-10-21T21:16:28.632229",
+    "sent_dm": false
+  },
+  {
+    "username": "Kanhaiya",
+    "intent_score": 0.6,
+    "reasons": [
+      "User is discussing interview experiences",
+      "User has gone through a technical interview process"
+    ],
+    "pain_points": [
+      "Lack of technical questions in interviews",
+      "Need for better preparation for technical interviews"
+    ],
+    "priority": "high",
+    "text": "They did have a Japanese fluency interview which I cleared, but for whatever reason they didn't ask any technical questions in Japanese ",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/kaunhaiye/status/1980821016122450294",
+    "found_date": "2025-10-21T21:27:53.876918",
+    "sent_dm": false
+  },
+  {
+    "username": "Idorocodes",
+    "intent_score": 0.6,
+    "reasons": [
+      "Shows interest in technical topics",
+      "Engages with content related to coding"
+    ],
+    "pain_points": [
+      "Need for interview preparation",
+      "Desire for personalized feedback"
+    ],
+    "priority": "medium",
+    "found_date": "2025-10-21T21:39:53.718512",
+    "sent_dm": true,
+    "sent_date": "2025-10-22T13:55:06.741641"
+  },
+  {
+    "username": "Bria McDonald",
+    "intent_score": 0.6,
+    "reasons": [
+      "Discussing career advice indicates an interest in professional development.",
+      "Mentioning metrics and evaluation suggests a focus on improving outcomes."
+    ],
+    "pain_points": [
+      "Need for effective preparation for career advancement.",
+      "Challenges in measuring success in job interviews."
+    ],
+    "priority": "medium",
+    "text": "Measuring success in career advice requires clear metrics, baselines, and continuous evaluation for small businesses.",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/BriaMcdona51607/status/1980848280507674694",
+    "found_date": "2025-10-21T22:01:19.006638",
+    "sent_dm": false
+  },
+  {
+    "username": "Rod Howarth",
+    "intent_score": 0.6,
+    "reasons": [
+      "User has experience transitioning to a senior role, indicating a focus on career growth.",
+      "Comment reflects a strategic approach to career decisions, suggesting interest in professional development."
+    ],
+    "pain_points": [
+      "Navigating career transitions and leveling in tech roles.",
+      "Need for preparation for technical interviews to secure better positions."
+    ],
+    "priority": "medium",
+    "text": "This is solid advice. I did a similar thing coming to Stripe from startups (came in at a Senior role rather than Staff). It’s been a great career decision for me - no point letting ego about leveling be the reason you miss out on the chance to grow at a great company.",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/rodh257/status/1980847920909058352",
+    "found_date": "2025-10-21T22:01:19.006648",
+    "sent_dm": false
+  },
+  {
+    "username": "Valentino Jordan",
+    "intent_score": 0.6,
+    "reasons": [
+      "Shows interest in career advice and tools for improvement",
+      "Comments on the evolution of tools which indicates awareness of market solutions"
+    ],
+    "pain_points": [
+      "Need for effective career preparation tools",
+      "Challenges in accessing quality interview preparation resources"
+    ],
+    "priority": "medium",
+    "text": "The future of career advice looks promising as tools mature and costs decline with case studies.",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/JordanVale68797/status/1980847399804498190",
+    "found_date": "2025-10-21T22:01:19.006650",
+    "sent_dm": false
+  },
+  {
+    "username": "౨ৎ",
+    "intent_score": 0.8,
+    "reasons": [
+      "Expresses anxiety about interviews",
+      "Mentions fear of interviewing"
+    ],
+    "pain_points": [
+      "Anxiety related to waiting for interview calls",
+      "Fear of technical interviews"
+    ],
+    "priority": "high",
+    "found_date": "2025-10-21T22:32:24.413910",
+    "sent_dm": false
+  },
+  {
+    "username": "Hosine Kanaghaz",
+    "intent_score": 0.7,
+    "reasons": [
+      "Expressed interest in career advice",
+      "Mentioned the importance of measurable outcomes"
+    ],
+    "pain_points": [
+      "Need for effective career guidance",
+      "Desire for concrete solutions to career challenges"
+    ],
+    "priority": "high",
+    "text": "career advice delivers the most value when it addresses a concrete problem with measurable outcomes.",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/HKanaghaz30183/status/1980866454959583461",
+    "found_date": "2025-10-21T23:14:42.419252",
+    "sent_dm": false
+  },
+  {
+    "username": "Immutable❀Turtle",
+    "intent_score": 0.6,
+    "reasons": [
+      "Expresses desire to apply for a job, indicating interest in career advancement.",
+      "Mentions job application process, suggesting need for interview preparation."
+    ],
+    "pain_points": [
+      "Uncertainty about how to effectively apply for jobs.",
+      "Need for guidance in preparing for interviews."
+    ],
+    "priority": "high",
+    "text": "Does anyone out there wanna send in an email tip for me?\nJust the tip",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/grok/status/1980868132836372990",
+    "found_date": "2025-10-21T23:16:10.603747",
+    "sent_dm": false
+  },
+  {
+    "username": "Ibrahim S.",
+    "intent_score": 0.7,
+    "reasons": [
+      "Expressed concern about performance in technical interviews",
+      "Mentioned nervousness during interviews, indicating a need for preparation"
+    ],
+    "pain_points": [
+      "Nervousness during technical interviews",
+      "Difficulty in answering behavioral questions"
+    ],
+    "priority": "high",
+    "text": "yeah for sure. he believed in me and when i talked with him i performed rly well. just got nervous during my technical interview which made me perform bad when he asked me behavioral esque questions",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/IbrahimS15/status/1980833933496558042",
+    "found_date": "2025-10-21T23:17:19.064893",
+    "sent_dm": false
+  },
+  {
+    "username": "Sam Levey",
+    "intent_score": 0.6,
+    "reasons": [
+      "Engaging in a discussion about job opportunities",
+      "Expressing concerns about job market conditions"
+    ],
+    "pain_points": [
+      "Negative job returns",
+      "Transportation costs affecting job viability"
+    ],
+    "priority": "high",
+    "text": "I'm asking, what if it's actually just a negative number. E.g. the nearest job is so far away that the transportation costs would make your net pay negative.",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/kingofthecoastt/status/1980872100916392140",
+    "found_date": "2025-10-21T23:18:41.165333",
+    "sent_dm": false
+  },
+  {
+    "username": "Malakai",
+    "intent_score": 0.6,
+    "reasons": [
+      "Shows interest in career advice",
+      "Engages in conversation about work"
+    ],
+    "pain_points": [
+      "Need for effective interview preparation",
+      "Desire for career advancement"
+    ],
+    "priority": "medium",
+    "text": "You can simply change the word “work” from a noun to a verb. \n\nFollow me for more career advice",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/saltyreigns/status/1980874209002942826",
+    "found_date": "2025-10-21T23:27:20.835130",
+    "sent_dm": false
+  },
+  {
+    "username": "Adam Holloway",
+    "intent_score": 0.6,
+    "reasons": [
+      "User discusses interview preparation",
+      "User mentions tailored feedback"
+    ],
+    "pain_points": [
+      "Need for effective interview preparation",
+      "Lack of personalized feedback"
+    ],
+    "priority": "high",
+    "text": "Stay calm and focus on showcasing your skills and experiences that align with the job. Practicing common interview questions can really help, and I found that using Boterview made a big difference in my preparation, giving me tailored feedback and boosting my confidence.",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/adamhollownx2c/status/1981065500018036808",
+    "found_date": "2025-10-22T12:55:51.336868",
+    "sent_dm": false
+  },
+  {
+    "username": "Harvey Parkes",
+    "intent_score": 0.6,
+    "reasons": [
+      "User discusses interview preparation, indicating interest in improving interview skills.",
+      "User mentions using a similar product (Boterview) to refine answers, showing openness to tools that aid in preparation."
+    ],
+    "pain_points": [
+      "Nervousness before interviews",
+      "Need for effective preparation and practice"
+    ],
+    "priority": "medium",
+    "text": "It's completely normal to feel nervous before a big interview, but try to focus on your preparation and practice your responses. I discovered that using Boterview really helped me refine my answers and boost my confidence before my own interviews.",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/harveyparkes69/status/1981062445306187999",
+    "found_date": "2025-10-22T12:55:51.336889",
+    "sent_dm": false
+  },
+  {
+    "username": "StandOut®",
+    "intent_score": 0.7,
+    "reasons": [
+      "User discusses job seekers and interview preparation.",
+      "User promotes their own platform for interview practice."
+    ],
+    "pain_points": [
+      "High competition for job positions.",
+      "Need for effective preparation to secure interviews."
+    ],
+    "priority": "high",
+    "text": "Around 250 job seekers apply for every good corporate position, but only four to six candidates score interviews. StandOut’s self-paced practice and AI and feedback help ensure you’re well prepared when you get your interview chance. Start practicing with StandOut today!",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/go_standout/status/1981058942303424838",
+    "found_date": "2025-10-22T12:55:51.336894",
+    "sent_dm": false
+  },
+  {
+    "username": "Dr_Pengu",
+    "intent_score": 0.5,
+    "reasons": [
+      "Shows interest in improving job application materials",
+      "Engaged in discussions about interview preparation"
+    ],
+    "pain_points": [
+      "Struggles with effectively presenting qualifications",
+      "May need assistance with interview preparation"
+    ],
+    "priority": "medium",
+    "found_date": "2025-10-22T12:57:12.953589",
+    "sent_dm": false
+  },
+  {
+    "username": "Matthew Stewart",
+    "intent_score": 0.7,
+    "reasons": [
+      "Engaged in a discussion about AI in recruitment, indicating interest in AI solutions.",
+      "Mentioned automating interviews, which aligns with the need for interview preparation tools."
+    ],
+    "pain_points": [
+      "Difficulty in conducting efficient first-round interviews.",
+      "Need for effective tools to streamline the hiring process."
+    ],
+    "priority": "high",
+    "text": "\"How I Built an AI Recruiter That Automates First-Round Interviews\" by \n@mstewceo\n #DEVCommunity",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/mstewceo/status/1981071948479418555",
+    "found_date": "2025-10-22T12:58:49.747609",
+    "sent_dm": false
+  },
+  {
+    "username": "MEBAR08",
+    "intent_score": 0.9,
+    "reasons": [
+      "User is building a platform focused on interview preparation.",
+      "User discusses specific steps related to interview preparation."
+    ],
+    "pain_points": [
+      "Need for effective interview preparation tools.",
+      "Desire for personalized feedback and structured preparation."
+    ],
+    "priority": "high",
+    "text": "I am building Skillva solo. Launch is close. Follow for the next drops and check my page for earlier teasers. Comment signal if you want early eyes. #CareerTech #Startup",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/MedonB082602/status/1981066420294472115",
+    "found_date": "2025-10-22T12:58:49.747626",
+    "sent_dm": false
+  },
+  {
+    "username": "HappyTechies",
+    "intent_score": 0.6,
+    "reasons": [
+      "Encourages resilience in job applications, indicating a focus on career advancement.",
+      "Engages with others about personal experiences related to job challenges."
+    ],
+    "pain_points": [
+      "Struggles with technical interview preparation.",
+      "Needs support in overcoming setbacks during job applications."
+    ],
+    "priority": "high",
+    "text": "Every Microsoft pro has faced setbacks before success. Don’t quit after one “no.” Your next application could be the breakthrough. \n\nFollow \n@BeAHappyTechie\n for weekly motivation & career resilience tips. \n \nShare your biggest “failure that taught you” moment below.",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/BeAHappyTechie/status/1980974921766330580",
+    "found_date": "2025-10-22T12:58:49.747629",
+    "sent_dm": false
+  },
+  {
+    "username": "CareerCircle",
+    "intent_score": 0.6,
+    "reasons": [
+      "User is promoting AI skills which are relevant for technical interviews.",
+      "User is engaged in providing resources for interview preparation."
+    ],
+    "pain_points": [
+      "Need for effective resume skills to stand out in interviews.",
+      "Lack of preparation for technical interviews."
+    ],
+    "priority": "high",
+    "text": "Make your resume stand out with free in-demand AI skills.\n\nWe've partnered with \n@ibm\n #SkillsBuild to bring you \"Artificial Intelligence Fundamentals\" for FREE. It's a tangible skill you can highlight in your next interview.\n\nGet started here: \nhttps://\nbit.ly/3IvO5tf",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/MyCareerCircle/status/1981084433118613591",
+    "found_date": "2025-10-22T13:00:09.905580",
+    "sent_dm": false
+  },
+  {
+    "username": "Ebokify",
+    "intent_score": 0.6,
+    "reasons": [
+      "User is discussing Python, which is relevant to technical interviews.",
+      "The comment indicates an interest in improving skills, suggesting a need for interview preparation."
+    ],
+    "pain_points": [
+      "Need for structured learning and preparation for technical interviews.",
+      "Potential lack of confidence in interview performance."
+    ],
+    "priority": "medium",
+    "text": "The Quick #Python Book, (4th Edition) at \nhttps://\namzn.to/4ql84f6\n\nFast-paced #Python introduction for intermediate developers, covers:\n• Python syntax, data structures, best practices\n• Python as an object oriented language\n• Common Python libraries\n• Basic data handling with",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/ebokify/status/1981034850288029744",
+    "found_date": "2025-10-22T13:06:54.762944",
+    "sent_dm": false
+  },
+  {
+    "username": "Vishon Singh",
+    "intent_score": 0.6,
+    "reasons": [
+      "Shows interest in job placements and achievements.",
+      "Engaged in discussions about career success."
+    ],
+    "pain_points": [
+      "Potential difficulty in preparing for technical interviews.",
+      "Need for personalized feedback to improve interview skills."
+    ],
+    "priority": "medium",
+    "text": "That's awesome, congrats to your client! Landing a job at a place like Snapchat is a huge win.",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/Joshuaatilola2/status/1980927860157432306",
+    "found_date": "2025-10-22T13:16:47.758559",
+    "sent_dm": false
+  },
+  {
+    "username": "Joshua Atilola",
+    "intent_score": 0.6,
+    "reasons": [
+      "Acknowledged the competitiveness of the tech job market",
+      "Willingness to share tips indicates engagement with interview preparation"
+    ],
+    "pain_points": [
+      "Need for the right strategy in a competitive job market",
+      "Interest in improving interview skills"
+    ],
+    "priority": "medium",
+    "text": "Thanks, Vishon! You’re spot on, the tech job market is competitive, and having the right strategy is key. Happy to share tips anytime!",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/Joshuaatilola2/status/1980927628359139360",
+    "found_date": "2025-10-22T13:16:47.758600",
+    "sent_dm": false
+  },
+  {
+    "username": "AskPerplexity",
+    "intent_score": 0.8,
+    "reasons": [
+      "Recommended books and courses for software and data roles.",
+      "Engaged in discussions about job roles requiring specific qualifications."
+    ],
+    "pain_points": [
+      "Need for preparation resources for technical interviews.",
+      "Lack of knowledge about required qualifications for H-1B roles."
+    ],
+    "priority": "high",
+    "found_date": "2025-10-22T13:16:47.758609",
+    "sent_dm": false
+  },
+  {
+    "username": "Nalin Haley",
+    "intent_score": 0.6,
+    "reasons": [
+      "Expressed frustration about job market conditions.",
+      "Engaged in discussions about qualifications for technical roles."
+    ],
+    "pain_points": [
+      "Concern about job opportunities for qualified candidates.",
+      "Need for effective preparation for technical interviews."
+    ],
+    "priority": "medium",
+    "text": "Exactly, it’s nothing more than anti American corporate greed",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/AskPerplexity/status/1980823703093981548",
+    "found_date": "2025-10-22T13:16:47.758613",
+    "sent_dm": false
+  },
+  {
+    "username": "rod",
+    "intent_score": 0.6,
+    "reasons": [
+      "Expresses agreement with the value of investing in solutions",
+      "Acknowledges potential costs but sees long-term benefits"
+    ],
+    "pain_points": [
+      "Need for effective interview preparation",
+      "Concerns about the interview process"
+    ],
+    "priority": "high",
+    "text": "You feel me! Like while it’s an extra step and probably comes with a cost. I think it’s worth it in the long run. It definitely could solve the original problem mentioned.",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/Rackaveli919/status/1981056844324802888",
+    "found_date": "2025-10-22T13:21:08.342843",
+    "sent_dm": false
+  },
+  {
+    "username": "Maybach O",
+    "intent_score": 0.5,
+    "reasons": [
+      "Shows interest in innovative solutions",
+      "Discusses the need for creativity in the hiring process"
+    ],
+    "pain_points": [
+      "Overthinking in the hiring process",
+      "Desire for more effective and engaging interview methods"
+    ],
+    "priority": "medium",
+    "text": "Bingo! It’s crazy bc I think a lot of companies overthink it & while logistically that brings on a different set of potential issues I think it’s innovative, it’s fun & relatively low-risk. I definitely hope to see more ppl get more creative",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/Rackaveli919/status/1981056844324802888",
+    "found_date": "2025-10-22T13:21:08.342863",
+    "sent_dm": false
+  },
+  {
+    "username": "Zingo",
+    "intent_score": 0.8,
+    "reasons": [
+      "Expresses a common interview-related pain point.",
+      "Mentions training and feedback, indicating interest in improvement."
+    ],
+    "pain_points": [
+      "Difficulty in articulating responses during interviews.",
+      "Nervousness or pressure during interviews."
+    ],
+    "priority": "high",
+    "text": " Ever felt your mind go blank right when the interviewer says “Tell me about yourself”?\n\nZingo’s AI coach trains you to stay composed under pressure — with real-time feedback on your tone, pauses, and confidence.\n\n Practice daily. Speak stronger. Land the job.",
+    "platform": "twitter",
+    "source_url": "https://twitter.com/ZingoAIapp/status/1980944827606040806",
+    "found_date": "2025-10-22T13:25:37.603219",
+    "sent_dm": false
+  }
+]

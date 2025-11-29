@@ -1,0 +1,26 @@
+{
+  "generated_at": "2025-10-29T23:02:30.385524",
+  "target_date": "2025-10-29",
+  "schedule": [
+    {
+      "time_slot": "09:00-10:00",
+      "tweet": "Just analyzed feedback from 200 users of our AI interview assistant. Found that 65% struggled with impromptu questions. This insight led us to focus on adaptive questioning techniques. Sometimes less is more! Explore our journey: https://interviewasssistant.com #AI #interviews",
+      "posted": false
+    },
+    {
+      "time_slot": "11:00-13:00",
+      "tweet": "Just analyzed feedback from 200 users of HireMeAI. Counterintuitive insight: personalized prep questions led to a 30% increase in confidence scores. 🎯 It's all about tailoring the experience. Check it out: https://interviewasssistant.com #AI #Interviews",
+      "posted": false
+    },
+    {
+      "time_slot": "13:00-15:00",
+      "tweet": "After analyzing feedback from 150 users, we discovered that 60% found common interview questions less helpful than real-time AI simulations. 🤖 It's a game-changer for us at HireMeAI! Real practice beats theory. Check us out: https://interviewasssistant.com #AI #Interviews",
+      "posted": false
+    },
+    {
+      "time_slot": "17:00-19:00",
+      "tweet": "Just reviewed feedback from 150 users of our AI interview assistant. Surprisingly, 70% felt unprepared despite practice. The takeaway? It’s less about quantity and more about personalized feedback. Ready for a smarter approach? Check us out: https://interviewasssistant.com #AI #Interviews",
+      "posted": false
+    }
+  ]
+}
