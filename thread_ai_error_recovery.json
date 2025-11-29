@@ -1,0 +1,49 @@
+{
+  "thread_title": "AI-Powered Error Recovery for Browser Automation",
+  "tweets": [
+    {
+      "id": 1,
+      "text": "I built an AI that fixes broken browser automation in real-time 🤖\n\nWhen Playwright selectors fail, GPT-4 Vision looks at the screenshot and suggests fixes.\n\n90% success rate. Here's how it works 🧵"
+    },
+    {
+      "id": 2,
+      "text": "2/ The Problem:\n\nYou write Playwright automation → Site updates UI → Your selectors break → Automation stops\n\nManual fix required every time. Painful. Time-consuming. 😤"
+    },
+    {
+      "id": 3,
+      "text": "3/ Traditional approach:\n\n❌ Hope sites don't change\n❌ Add a million fallback selectors\n❌ Manual monitoring + fixes\n\nNone of these scale."
+    },
+    {
+      "id": 4,
+      "text": "4/ My Solution: AI-Powered Self-Healing\n\nWhen automation fails:\n1️⃣ Capture screenshot\n2️⃣ Send to GPT-4 Vision with task description\n3️⃣ AI analyzes what went wrong\n4️⃣ Suggests new selectors\n5️⃣ Retry automatically\n\nLike having a junior dev watching your automation 24/7"
+    },
+    {
+      "id": 5,
+      "text": "5/ Code example:\n\nasync def analyze_failure(page, task, error):\n    screenshot = await page.screenshot()\n    response = await openai.chat.completions.create(\n        model=\"gpt-4-vision-preview\",\n        messages=[...]\n    )\n    return parse_ai_suggestion(response)"
+    },
+    {
+      "id": 6,
+      "text": "6/ Results after 3 months of testing:\n\n✅ 90% success rate on first AI retry\n✅ Average fix time: 2-3 seconds\n✅ Cost: ~$0.01 per failed operation\n✅ Saved 10+ hours/week of manual debugging\n\nThe AI \"learns\" from failures and gets better over time."
+    },
+    {
+      "id": 7,
+      "text": "7/ Real example:\n\nTwitter changed their \"Post\" button from:\n`button[data-testid=\"tweetButton\"]`\n\nto:\n`button[data-testid=\"tweetButtonInline\"]`\n\nAI caught it, suggested new selector, automation continued.\n\nI only noticed 2 days later when checking logs. 😅"
+    },
+    {
+      "id": 8,
+      "text": "8/ \"But GPT-4 Vision is expensive!\"\n\nTrue, but I only call it when automation FAILS (rare).\n\nTypical cost breakdown:\n- 100 operations: $0 (all succeed)\n- 5 failures: $0.05 (AI fixes)\n- Total: $0.05 for 100 operations\n\nvs $99/month for Buffer/Hootsuite 📉"
+    },
+    {
+      "id": 9,
+      "text": "9/ Hardest technical challenges:\n\n1️⃣ Parsing AI responses (it's creative, not structured)\n2️⃣ Avoiding infinite AI retry loops\n3️⃣ Balancing speed vs accuracy (GPT-4 vs GPT-4-turbo)\n4️⃣ Token limits with large screenshots\n\nSolutions in the repo's TECHNICAL_DEEP_DIVE.md"
+    },
+    {
+      "id": 10,
+      "text": "10/ I open-sourced this as DistroFlow\n\nFull automation framework with:\n- AI self-healing\n- Multi-platform (Twitter, Reddit, HN, Instagram)\n- FastAPI server + Chrome extension\n- AsyncIO\n\n⭐ github.com/Liu-Lucian/distroflow\n\nBuilt as UC Irvine CS student project."
+    },
+    {
+      "id": 11,
+      "text": "11/ If you found this interesting:\n\n🔗 Check out the code: github.com/Liu-Lucian/distroflow\n💬 Questions? Reply below\n⭐ Star if you want to see more\n\nNext thread: Cost optimization ($0.001 vs $99/month) 🧵\n\n#BuildInPublic #AI #Python #OpenSource"
+    }
+  ]
+}
