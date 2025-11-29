@@ -16,7 +16,7 @@ Get up and running in 5 minutes.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/distroflow.git
+git clone https://github.com/Liu-Lucian/distroflow.git
 cd distroflow
 
 # Create virtual environment
