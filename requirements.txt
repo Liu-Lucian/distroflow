@@ -1,9 +1,18 @@
-pandas
-anthropic
-beautifulsoup4
-openai
-pdfminer.six
-python-docx
-requests
-python-dotenv
-playwright
+# DistroFlow Core Dependencies
+
+# CLI
+click>=8.1.0
+
+# Browser Automation
+playwright>=1.40.0
+
+# AI
+openai>=1.0.0
+
+# Web Framework (for browser extension backend)
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# Utilities
+python-dotenv>=1.0.0
+aiofiles>=23.2.0

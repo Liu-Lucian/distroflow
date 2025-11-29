@@ -30,12 +30,12 @@ else:
 setup(
     name="distroflow",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Lucian Liu",
+    author_email="lucian@uci.edu",
     description="Open-source cross-platform distribution infrastructure",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/distroflow",
+    url="https://github.com/Liu-Lucian/distroflow",
     packages=find_packages(exclude=["tests", "examples", "archive"]),
     classifiers=[
         "Development Status :: 3 - Alpha",

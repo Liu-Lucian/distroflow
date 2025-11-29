@@ -6,11 +6,11 @@ build-backend = "setuptools.build_meta"
 name = "distroflow"
 version = "0.1.0"
 description = "Open-source cross-platform distribution infrastructure"
-readme = "README_NEW.md"
+readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "Lucian Liu", email = "lucian@uci.edu"}
 ]
 keywords = ["automation", "social-media", "cross-platform", "ai", "playwright"]
 classifiers = [
